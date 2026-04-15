@@ -80,6 +80,31 @@ npm run dev
 
 ---
 
+## 🧩 (Optional) Generate / Regenerate NASA data
+
+If you need to (re)generate the processed NASA data in `nasa_data/`, run the Python pipeline from the project root:
+
+```bash
+# Create venv
+python -m venv .venv
+
+# Activate venv (PowerShell)
+.\.venv\Scripts\Activate.ps1
+
+# (macOS/Linux)
+# source .venv/bin/activate
+
+# Install Python dependencies
+pip install -r requirements.txt
+
+# Run the pipeline
+python pipelines/main_pipeline.py --full
+```
+
+See `pipelines/README.md` for pipeline details.
+
+---
+
 ## 🌌 Data Source
 
 All exoplanet data comes directly from the **[NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)** — the official NASA database of confirmed exoplanets.
