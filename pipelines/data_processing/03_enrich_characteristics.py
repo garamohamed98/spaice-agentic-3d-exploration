@@ -16,7 +16,7 @@ import os
 import math
 import random
 
-print("🔄 NASA Exoplanet Cluster Update Script")
+print("NASA Exoplanet Cluster Update Script")
 print("=" * 70)
 
 CLUSTERS_DIR = 'nasa_data/clusters'
@@ -480,7 +480,7 @@ def update_cluster_file(filename):
     filepath = os.path.join(CLUSTERS_DIR, filename)
     
     if not os.path.exists(filepath):
-        print(f"  ⚠️  File not found: {filename}")
+        print(f"  WARNING: File not found: {filename}")
         return 0
     
     # Load cluster
@@ -504,7 +504,7 @@ def main():
     """Main update process."""
     
     if not os.path.exists(CLUSTERS_DIR):
-        print(f"❌ Error: Clusters directory not found: {CLUSTERS_DIR}")
+        print(f"ERROR: Clusters directory not found: {CLUSTERS_DIR}")
         print("   Please run cluster_planets.py first to create the clusters.")
         return
     
@@ -512,10 +512,10 @@ def main():
     cluster_files = [f for f in os.listdir(CLUSTERS_DIR) if f.endswith('.json') and f != 'cluster_index.json']
     
     if not cluster_files:
-        print(f"❌ Error: No cluster files found in {CLUSTERS_DIR}")
+        print(f"ERROR: No cluster files found in {CLUSTERS_DIR}")
         return
     
-    print(f"\n📂 Found {len(cluster_files)} cluster files to update")
+    print(f"\nFound {len(cluster_files)} cluster files to update")
     print(f"   Location: {CLUSTERS_DIR}\n")
     
     total_planets = 0
@@ -525,7 +525,7 @@ def main():
         print(f"  [{i:2d}/{len(cluster_files)}] Updating {filename:25s}...", end=' ')
         count = update_cluster_file(filename)
         total_planets += count
-        print(f"✅ {count:5d} planets updated")
+        print(f"OK: {count:5d} planets updated")
     
     # Update the cluster index to reflect changes
     index_path = os.path.join(CLUSTERS_DIR, 'cluster_index.json')
@@ -551,16 +551,16 @@ def main():
         with open(index_path, 'w') as f:
             json.dump(index, f, indent=2)
         
-        print(f"\n  ✅ cluster_index.json updated with new metadata")
+        print("\n  OK: cluster_index.json updated with new metadata")
     
     # Print summary
     print("\n" + "=" * 70)
-    print("✨ UPDATE COMPLETE!")
+    print("UPDATE COMPLETE!")
     print("=" * 70)
-    print(f"\n📊 Summary:")
+    print("\nSummary:")
     print(f"   • Total cluster files updated: {len(cluster_files)}")
     print(f"   • Total planets updated: {total_planets}")
-    print(f"\n🎯 New characteristics added to each planet:")
+    print("\nNew characteristics added to each planet:")
     print(f"   • Radius Position (Sub-Earth, Earth-like, Super-Earth, Mini-Neptune,")
     print(f"     Sub-Neptune, Neptune-like, Sub-Jupiter, Jupiter-like, Super-Jupiter)")
     print(f"   • Atmosphere Type (inferred from physical properties)")
@@ -572,8 +572,8 @@ def main():
     print(f"   • Orbit Type (eccentricity and zone)")
     print(f"   • 3D Coordinates (x, y, z in parsecs and light-years)")
     print(f"   • ICRS Coordinates (RA, Dec, proper motion, parallax)")
-    print(f"\n📁 All original data preserved in each planet object")
-    print(f"💡 Access new data via: planet['characteristics']['field_name']")
+    print("\nAll original data preserved in each planet object")
+    print("Tip: Access new data via: planet['characteristics']['field_name']")
     print()
 
 

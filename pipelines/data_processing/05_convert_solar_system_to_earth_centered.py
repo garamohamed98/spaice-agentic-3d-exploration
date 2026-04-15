@@ -100,11 +100,11 @@ def convert_solar_system():
     print("=" * 70)
 
     # Load solar system data
-    print(f"\n📂 Loading: {SOLAR_SYSTEM_FILE}")
+    print(f"\nLoading: {SOLAR_SYSTEM_FILE}")
     with open(SOLAR_SYSTEM_FILE, 'r') as f:
         planets = json.load(f)
 
-    print(f"✓ Loaded {len(planets)} planets")
+    print(f"Loaded {len(planets)} planets")
 
     # Find Earth's position (will be our origin)
     earth = next((p for p in planets if p['pl_name'] == 'Earth'), None)
@@ -112,10 +112,10 @@ def convert_solar_system():
         raise ValueError("Earth not found in solar system data!")
 
     earth_position = earth['position']
-    print(f"\n🌍 Earth position (heliocentric): x={earth_position['x']}, y={earth_position['y']}, z={earth_position['z']} AU")
+    print(f"\nEarth position (heliocentric): x={earth_position['x']}, y={earth_position['y']}, z={earth_position['z']} AU")
 
     # Convert all planets
-    print("\n🔄 Converting to Earth-centered coordinates...")
+    print("\nConverting to Earth-centered coordinates...")
     for planet in planets:
         planet_name = planet['pl_name']
         old_pos = planet['position'].copy()
@@ -127,35 +127,35 @@ def convert_solar_system():
               f"({new_coords['x_light_years']:12.9f}, {new_coords['y_light_years']:12.9f}, {new_coords['z_light_years']:12.9f}) ly (Earth)")
 
     # Save updated data
-    print(f"\n💾 Saving to: {SOLAR_SYSTEM_FILE}")
+    print(f"\nSaving to: {SOLAR_SYSTEM_FILE}")
     with open(SOLAR_SYSTEM_FILE, 'w') as f:
         json.dump(planets, f, indent=2)
 
-    print(f"✓ Saved main solar system file")
+    print("Saved main solar system file")
 
     # Update cluster file
     if os.path.exists(SOLAR_SYSTEM_CLUSTER_FILE):
-        print(f"\n💾 Updating cluster file: {SOLAR_SYSTEM_CLUSTER_FILE}")
+        print(f"\nUpdating cluster file: {SOLAR_SYSTEM_CLUSTER_FILE}")
         with open(SOLAR_SYSTEM_CLUSTER_FILE, 'w') as f:
             json.dump(planets, f, indent=2)
-        print(f"✓ Saved cluster file")
+        print("Saved cluster file")
 
     print("\n" + "=" * 70)
-    print("✅ CONVERSION COMPLETE!")
+    print("CONVERSION COMPLETE!")
     print("=" * 70)
-    print("\n📋 Summary:")
+    print("\nSummary:")
     print(f"  • Coordinate system: Galactic (Earth/Sun centered)")
     print(f"  • Reference point: Earth at (0, 0, 0)")
     print(f"  • Units: light-years and parsecs")
     print(f"  • Planets converted: {len(planets)}")
-    print("\n🎯 Solar System now uses same coordinate system as exoplanets!")
+    print("\nSolar System now uses same coordinate system as exoplanets!")
 
     # Show verification
-    print("\n🔍 Verification:")
+    print("\nVerification:")
     earth = next((p for p in planets if p['pl_name'] == 'Earth'), None)
     earth_coords = earth['characteristics']['coordinates_3d']
     print(f"  Earth position: ({earth_coords['x_light_years']}, {earth_coords['y_light_years']}, {earth_coords['z_light_years']}) ly")
-    print(f"  Earth distance: {earth['characteristics']['distance_to_earth_ly']} ly ✓")
+    print(f"  Earth distance: {earth['characteristics']['distance_to_earth_ly']} ly (ok)")
 
 
 if __name__ == '__main__':

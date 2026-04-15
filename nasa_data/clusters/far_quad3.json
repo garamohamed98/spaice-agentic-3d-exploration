@@ -1,1 +1,4727 @@
-[{"pl_name":"K2-132 b","hostname":"K2-132","sy_dist":609.818,"ra":182.166267,"dec":-8.747217,"pl_rade":12.206601,"pl_bmasse":157.32585,"pl_eqt":1586.0,"pl_orbper":9.1708,"pl_orbsmax":0.0916,"discoverymethod":"Transit","disc_year":2017,"st_teff":4878.0,"st_rad":4.11,"st_mass":1.19,"st_spectype":"","dist_ly":1988.96,"x_ly":-1964.42,"y_ly":-74.31,"z_ly":-302.47,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1988.96,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-1964.42,"y_light_years":-74.31,"z_light_years":-302.47,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-230 b","hostname":"K2-230","sy_dist":540.773,"ra":191.363117,"dec":-6.576051,"pl_rade":1.96,"pl_bmasse":null,"pl_eqt":1529.0,"pl_orbper":2.86041,"pl_orbsmax":0.0409,"discoverymethod":"Transit","disc_year":2018,"st_teff":5945.0,"st_rad":1.39,"st_mass":1.11,"st_spectype":"","dist_ly":1763.76,"x_ly":-1717.81,"y_ly":-345.22,"z_ly":-201.99,"characteristics":{"radius_position":"Super-Earth","atmosphere_type":"CO2-SO2 (Hot Dense)","principal_material":"Rocky (Iron/Silicates - Molten)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1763.76,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-1717.81,"y_light_years":-345.22,"z_light_years":-201.99,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"EPIC 212424622 b","hostname":"EPIC 212424622","sy_dist":611.804,"ra":202.331377,"dec":-14.359436,"pl_rade":2.17,"pl_bmasse":null,"pl_eqt":null,"pl_orbper":18.0983,"pl_orbsmax":null,"discoverymethod":"Transit","disc_year":2019,"st_teff":null,"st_rad":null,"st_mass":1.106,"st_spectype":"","dist_ly":1995.44,"x_ly":-1788.12,"y_ly":-734.5,"z_ly":-494.88,"characteristics":{"radius_position":"Super-Earth","atmosphere_type":"CO2-N2 (Dense)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":15,"toxicity_percent":80,"distance_to_earth_ly":1995.44,"coordinates_3d":{"x_light_years":-1788.12,"y_light_years":-734.5,"z_light_years":-494.88,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"KMT-2018-BLG-1990L b","hostname":"KMT-2018-BLG-1990L","sy_dist":937.0,"ra":268.435375,"dec":-22.152539,"pl_rade":null,"pl_bmasse":180.0,"pl_eqt":null,"pl_orbper":null,"pl_orbsmax":0.883,"discoverymethod":"Microlensing","disc_year":2019,"st_teff":null,"st_rad":null,"st_mass":0.095,"st_spectype":"","dist_ly":3056.08,"x_ly":-77.29,"y_ly":-2829.44,"z_ly":-1152.37,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":3056.08,"orbit_type":"Circular - Habitable Zone","coordinates_3d":{"x_light_years":-77.29,"y_light_years":-2829.44,"z_light_years":-1152.37,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"OGLE-2012-BLG-0358L b","hostname":"OGLE-2012-BLG-0358L","sy_dist":1760.0,"ra":265.694875,"dec":-24.261,"pl_rade":null,"pl_bmasse":588.0,"pl_eqt":null,"pl_orbper":null,"pl_orbsmax":0.87,"discoverymethod":"Microlensing","disc_year":2013,"st_teff":null,"st_rad":null,"st_mass":0.022,"st_spectype":"","dist_ly":5740.35,"x_ly":-392.86,"y_ly":-5218.61,"z_ly":-2358.67,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":5740.35,"orbit_type":"Circular - Habitable Zone","coordinates_3d":{"x_light_years":-392.86,"y_light_years":-5218.61,"z_light_years":-2358.67,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"NN Ser c","hostname":"NN Ser","sy_dist":515.818,"ra":238.233701,"dec":12.912087,"pl_rade":null,"pl_bmasse":2196.11,"pl_eqt":null,"pl_orbper":5660.0,"pl_orbsmax":5.38,"discoverymethod":"Eclipse Timing Variations","disc_year":2010,"st_teff":57000.0,"st_rad":null,"st_mass":0.535,"st_spectype":"WD","dist_ly":1682.37,"x_ly":-863.3,"y_ly":-1394.19,"z_ly":375.94,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":1682.37,"orbit_type":"Wide - Frozen Zone","coordinates_3d":{"x_light_years":-863.3,"y_light_years":-1394.19,"z_light_years":375.94,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"NN Ser d","hostname":"NN Ser","sy_dist":515.818,"ra":238.233701,"dec":12.912087,"pl_rade":null,"pl_bmasse":724.622,"pl_eqt":null,"pl_orbper":2830.0,"pl_orbsmax":3.39,"discoverymethod":"Eclipse Timing Variations","disc_year":2010,"st_teff":57000.0,"st_rad":null,"st_mass":0.535,"st_spectype":"WD","dist_ly":1682.37,"x_ly":-863.3,"y_ly":-1394.19,"z_ly":375.94,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":1682.37,"orbit_type":"Circular - Cold Zone","coordinates_3d":{"x_light_years":-863.3,"y_light_years":-1394.19,"z_light_years":375.94,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"TrES-4 b","hostname":"TrES-4","sy_dist":515.98,"ra":268.304336,"dec":37.21174,"pl_rade":19.626959,"pl_bmasse":292.4036,"pl_eqt":1785.0,"pl_orbper":3.553945,"pl_orbsmax":0.05092,"discoverymethod":"Transit","disc_year":2007,"st_teff":6200.0,"st_rad":1.816,"st_mass":1.394,"st_spectype":"","dist_ly":1682.9,"x_ly":-39.66,"y_ly":-1339.68,"z_ly":1017.75,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1682.9,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-39.66,"y_light_years":-1339.68,"z_light_years":1017.75,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"TIC 257060897 b","hostname":"TIC 257060897","sy_dist":505.703,"ra":227.532153,"dec":72.710313,"pl_rade":17.26183,"pl_bmasse":201.50321,"pl_eqt":1775.0,"pl_orbper":3.660036,"pl_orbsmax":0.04922,"discoverymethod":"Transit","disc_year":2021,"st_teff":5993.0,"st_rad":1.863,"st_mass":1.187,"st_spectype":"F","dist_ly":1649.38,"x_ly":-330.97,"y_ly":-361.6,"z_ly":1574.85,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1649.38,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-330.97,"y_light_years":-361.6,"z_light_years":1574.85,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"TOI-4379 b","hostname":"TOI-4379","sy_dist":645.158,"ra":252.047881,"dec":-32.433753,"pl_rade":16.690172,"pl_bmasse":353.743017,"pl_eqt":null,"pl_orbper":3.25352,"pl_orbsmax":null,"discoverymethod":"Transit","disc_year":2024,"st_teff":6020.0,"st_rad":1.976,"st_mass":1.372,"st_spectype":"","dist_ly":2104.22,"x_ly":-547.4,"y_ly":-1689.52,"z_ly":-1128.54,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":80,"distance_to_earth_ly":2104.22,"coordinates_3d":{"x_light_years":-547.4,"y_light_years":-1689.52,"z_light_years":-1128.54,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"HAT-P-55 b","hostname":"HAT-P-55","sy_dist":511.388,"ra":264.27351,"dec":25.731147,"pl_rade":13.249038,"pl_bmasse":184.97706,"pl_eqt":1313.0,"pl_orbper":3.585247,"pl_orbsmax":0.04604,"discoverymethod":"Transit","disc_year":2015,"st_teff":5808.0,"st_rad":1.011,"st_mass":1.013,"st_spectype":"","dist_ly":1667.92,"x_ly":-149.92,"y_ly":-1495.04,"z_ly":724.13,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1667.92,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-149.92,"y_light_years":-1495.04,"z_light_years":724.13,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-253 b","hostname":"K2-253","sy_dist":876.565,"ra":186.085306,"dec":-6.378954,"pl_rade":12.67,"pl_bmasse":null,"pl_eqt":1238.0,"pl_orbper":4.00167,"pl_orbsmax":0.0506,"discoverymethod":"Transit","disc_year":2018,"st_teff":6027.0,"st_rad":1.1,"st_mass":1.08,"st_spectype":"","dist_ly":2858.97,"x_ly":-2825.26,"y_ly":-301.2,"z_ly":-317.64,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":2858.97,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-2825.26,"y_light_years":-301.2,"z_light_years":-317.64,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-127 b","hostname":"K2-127","sy_dist":709.999,"ra":207.07829,"dec":-11.588988,"pl_rade":8.37,"pl_bmasse":null,"pl_eqt":809.0,"pl_orbper":3.588163,"pl_orbsmax":0.0411,"discoverymethod":"Transit","disc_year":2017,"st_teff":4575.0,"st_rad":0.66,"st_mass":0.72,"st_spectype":"","dist_ly":2315.7,"x_ly":-2019.84,"y_ly":-1032.64,"z_ly":-465.2,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":2315.7,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-2019.84,"y_light_years":-1032.64,"z_light_years":-465.2,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"WASP-172 b","hostname":"WASP-172","sy_dist":538.11,"ra":199.433742,"dec":-47.237575,"pl_rade":17.59813,"pl_bmasse":149.3801,"pl_eqt":1740.0,"pl_orbper":5.477433,"pl_orbsmax":0.0694,"discoverymethod":"Transit","disc_year":2018,"st_teff":6900.0,"st_rad":1.91,"st_mass":1.49,"st_spectype":"F1 V","dist_ly":1755.08,"x_ly":-1123.74,"y_ly":-396.47,"z_ly":-1288.53,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1755.08,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-1123.74,"y_light_years":-396.47,"z_light_years":-1288.53,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"NGTS-18 b","hostname":"NGTS-18","sy_dist":1096.19,"ra":180.546219,"dec":-35.548609,"pl_rade":13.562867,"pl_bmasse":129.991818,"pl_eqt":1381.0,"pl_orbper":3.05125,"pl_orbsmax":0.0448,"discoverymethod":"Transit","disc_year":2021,"st_teff":5610.0,"st_rad":1.392,"st_mass":1.003,"st_spectype":"G5 V","dist_ly":3575.29,"x_ly":-2908.8,"y_ly":-27.73,"z_ly":-2078.65,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":3575.29,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-2908.8,"y_light_years":-27.73,"z_light_years":-2078.65,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"NGTS-27 b","hostname":"NGTS-27","sy_dist":942.122,"ra":206.026527,"dec":-32.522975,"pl_rade":15.647737,"pl_bmasse":188.472245,"pl_eqt":1783.0,"pl_orbper":3.370418,"pl_orbsmax":0.0446,"discoverymethod":"Transit","disc_year":2024,"st_teff":5700.0,"st_rad":1.77,"st_mass":1.07,"st_spectype":"","dist_ly":3072.79,"x_ly":-2328.16,"y_ly":-1136.85,"z_ly":-1652.05,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":3072.79,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-2328.16,"y_light_years":-1136.85,"z_light_years":-1652.05,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"HATS-31 b","hostname":"HATS-31","sy_dist":773.974,"ra":191.702821,"dec":-24.42739,"pl_rade":18.38276,"pl_bmasse":279.6904,"pl_eqt":1823.0,"pl_orbper":3.37796,"pl_orbsmax":0.0478,"discoverymethod":"Transit","disc_year":2016,"st_teff":6050.0,"st_rad":1.87,"st_mass":1.275,"st_spectype":"","dist_ly":2524.36,"x_ly":-2250.62,"y_ly":-466.2,"z_ly":-1043.92,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":2524.36,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-2250.62,"y_light_years":-466.2,"z_light_years":-1043.92,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"WASP-92 b","hostname":"WASP-92","sy_dist":575.889,"ra":246.692039,"dec":51.041133,"pl_rade":16.376349,"pl_bmasse":255.85315,"pl_eqt":1871.0,"pl_orbper":2.174674,"pl_orbsmax":0.0348,"discoverymethod":"Transit","disc_year":2016,"st_teff":6280.0,"st_rad":1.341,"st_mass":1.19,"st_spectype":"F7","dist_ly":1878.3,"x_ly":-467.29,"y_ly":-1084.62,"z_ly":1460.56,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1878.3,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-467.29,"y_light_years":-1084.62,"z_light_years":1460.56,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"HATS-54 b","hostname":"HATS-54","sy_dist":748.585,"ra":200.634864,"dec":-44.688839,"pl_rade":11.377115,"pl_bmasse":239.32479,"pl_eqt":1429.0,"pl_orbper":2.544176,"pl_orbsmax":0.037,"discoverymethod":"Transit","disc_year":2019,"st_teff":5621.0,"st_rad":1.23,"st_mass":1.05,"st_spectype":"G6 V","dist_ly":2441.55,"x_ly":-1624.43,"y_ly":-611.71,"z_ly":-1717.04,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":2441.55,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-1624.43,"y_light_years":-611.71,"z_light_years":-1717.04,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"WASP-150 b","hostname":"WASP-150","sy_dist":527.995,"ra":264.26302,"dec":53.021275,"pl_rade":11.99363,"pl_bmasse":2688.8418,"pl_eqt":1460.0,"pl_orbper":5.644207,"pl_orbsmax":0.0694,"discoverymethod":"Transit","disc_year":2020,"st_teff":6218.0,"st_rad":1.651,"st_mass":1.394,"st_spectype":"F8","dist_ly":1722.09,"x_ly":-103.55,"y_ly":-1030.68,"z_ly":1375.7,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1722.09,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-103.55,"y_light_years":-1030.68,"z_light_years":1375.7,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"HATS-67 b","hostname":"HATS-67","sy_dist":960.109,"ra":180.208788,"dec":-46.13642,"pl_rade":18.887165,"pl_bmasse":460.8535,"pl_eqt":2193.0,"pl_orbper":1.609179,"pl_orbsmax":0.03032,"discoverymethod":"Transit","disc_year":2018,"st_teff":6594.0,"st_rad":1.441,"st_mass":1.435,"st_spectype":"","dist_ly":3131.45,"x_ly":-2169.91,"y_ly":-7.91,"z_ly":-2257.75,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":3131.45,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-2169.91,"y_light_years":-7.91,"z_light_years":-2257.75,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"HATS-27 b","hostname":"HATS-27","sy_dist":816.988,"ra":193.55246,"dec":-46.587716,"pl_rade":16.8135,"pl_bmasse":168.4499,"pl_eqt":1659.0,"pl_orbper":4.637038,"pl_orbsmax":0.0611,"discoverymethod":"Transit","disc_year":2016,"st_teff":6438.0,"st_rad":1.74,"st_mass":1.415,"st_spectype":"F","dist_ly":2664.66,"x_ly":-1780.28,"y_ly":-429.13,"z_ly":-1935.68,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":2664.66,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-1780.28,"y_light_years":-429.13,"z_light_years":-1935.68,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"TOI-3919 b","hostname":"TOI-3919","sy_dist":604.591,"ra":208.944753,"dec":40.391806,"pl_rade":12.31867,"pl_bmasse":1233.174219,"pl_eqt":1198.0,"pl_orbper":7.433234,"pl_orbsmax":0.0795,"discoverymethod":"Transit","disc_year":2024,"st_teff":6100.0,"st_rad":1.319,"st_mass":1.208,"st_spectype":"","dist_ly":1971.91,"x_ly":-1314.26,"y_ly":-726.85,"z_ly":1277.82,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1971.91,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-1314.26,"y_light_years":-726.85,"z_light_years":1277.82,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"TOI-3160 A b","hostname":"TOI-3160 A","sy_dist":567.678,"ra":224.565855,"dec":-27.68255,"pl_rade":13.764628,"pl_bmasse":378.215804,"pl_eqt":1539.0,"pl_orbper":3.971281,"pl_orbsmax":0.0505,"discoverymethod":"Transit","disc_year":2025,"st_teff":6190.0,"st_rad":1.346,"st_mass":1.088,"st_spectype":"","dist_ly":1851.52,"x_ly":-1168.11,"y_ly":-1150.54,"z_ly":-860.16,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1851.52,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-1168.11,"y_light_years":-1150.54,"z_light_years":-860.16,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"WASP-184 b","hostname":"WASP-184","sy_dist":663.231,"ra":209.51701,"dec":-30.348153,"pl_rade":14.90797,"pl_bmasse":181.1631,"pl_eqt":1480.0,"pl_orbper":5.1817,"pl_orbsmax":0.0627,"discoverymethod":"Transit","disc_year":2019,"st_teff":6000.0,"st_rad":1.65,"st_mass":1.23,"st_spectype":"G0 V","dist_ly":2163.17,"x_ly":-1624.46,"y_ly":-919.71,"z_ly":-1092.95,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":2163.17,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-1624.46,"y_light_years":-919.71,"z_light_years":-1092.95,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-99 c","hostname":"K2-99","sy_dist":519.229,"ra":208.773762,"dec":-5.442494,"pl_rade":null,"pl_bmasse":2669.758619,"pl_eqt":390.0,"pl_orbper":522.2,"pl_orbsmax":1.43,"discoverymethod":"Radial Velocity","disc_year":2022,"st_teff":6069.0,"st_rad":2.55,"st_mass":1.44,"st_spectype":"","dist_ly":1693.5,"x_ly":-1477.7,"y_ly":-811.49,"z_ly":-160.62,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"CO2-N2 (Dense)","principal_material":"Rocky/Ice (Silicates/Frozen Volatiles)","habitability_percent":15,"toxicity_percent":80,"distance_to_earth_ly":1693.5,"orbit_type":"Circular - Habitable Zone","coordinates_3d":{"x_light_years":-1477.7,"y_light_years":-811.49,"z_light_years":-160.62,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"PSR B1257+12 d","hostname":"PSR B1257+12","sy_dist":600.0,"ra":195.014903,"dec":12.682353,"pl_rade":null,"pl_bmasse":3.9,"pl_eqt":null,"pl_orbper":98.2114,"pl_orbsmax":0.46,"discoverymethod":"Pulsar Timing","disc_year":1992,"st_teff":null,"st_rad":null,"st_mass":1.4,"st_spectype":"","dist_ly":1956.94,"x_ly":-1844.01,"y_ly":-494.61,"z_ly":429.64,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":1956.94,"orbit_type":"Circular - Hot Zone","coordinates_3d":{"x_light_years":-1844.01,"y_light_years":-494.61,"z_light_years":429.64,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"EPIC 212624936 b","hostname":"EPIC 212624936","sy_dist":561.929,"ra":210.637617,"dec":-10.023685,"pl_rade":1.2,"pl_bmasse":null,"pl_eqt":null,"pl_orbper":0.578657,"pl_orbsmax":null,"discoverymethod":"Transit","disc_year":2021,"st_teff":5765.0,"st_rad":0.93,"st_mass":null,"st_spectype":"","dist_ly":1832.77,"x_ly":-1552.85,"y_ly":-919.73,"z_ly":-319.0,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":100,"toxicity_percent":10,"distance_to_earth_ly":1832.77,"coordinates_3d":{"x_light_years":-1552.85,"y_light_years":-919.73,"z_light_years":-319.0,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"PSR B1257+12 c","hostname":"PSR B1257+12","sy_dist":600.0,"ra":195.014903,"dec":12.682353,"pl_rade":null,"pl_bmasse":4.3,"pl_eqt":null,"pl_orbper":66.5419,"pl_orbsmax":0.36,"discoverymethod":"Pulsar Timing","disc_year":1992,"st_teff":null,"st_rad":null,"st_mass":1.4,"st_spectype":"","dist_ly":1956.94,"x_ly":-1844.01,"y_ly":-494.61,"z_ly":429.64,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":1956.94,"orbit_type":"Circular - Hot Zone","coordinates_3d":{"x_light_years":-1844.01,"y_light_years":-494.61,"z_light_years":429.64,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"OGLE-2018-BLG-0532L b","hostname":"OGLE-2018-BLG-0532L","sy_dist":773.0,"ra":269.983417,"dec":-28.99775,"pl_rade":null,"pl_bmasse":6.228,"pl_eqt":null,"pl_orbper":null,"pl_orbsmax":1.064,"discoverymethod":"Microlensing","disc_year":2020,"st_teff":null,"st_rad":null,"st_mass":0.195,"st_spectype":"","dist_ly":2521.19,"x_ly":-0.64,"y_ly":-2205.13,"z_ly":-1222.21,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":2521.19,"orbit_type":"Circular - Habitable Zone","coordinates_3d":{"x_light_years":-0.64,"y_light_years":-2205.13,"z_light_years":-1222.21,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"POTS-1 b","hostname":"POTS-1","sy_dist":747.959,"ra":203.608726,"dec":-66.581164,"pl_rade":10.548,"pl_bmasse":734.16,"pl_eqt":null,"pl_orbper":3.16063,"pl_orbsmax":0.03734,"discoverymethod":"Transit","disc_year":2013,"st_teff":4400.0,"st_rad":0.588,"st_mass":0.695,"st_spectype":"K5 V","dist_ly":2439.51,"x_ly":-888.43,"y_ly":-388.31,"z_ly":-2238.56,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":80,"distance_to_earth_ly":2439.51,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-888.43,"y_light_years":-388.31,"z_light_years":-2238.56,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-258 b","hostname":"K2-258","sy_dist":661.873,"ra":187.631403,"dec":-1.160917,"pl_rade":3.0,"pl_bmasse":null,"pl_eqt":831.0,"pl_orbper":19.0921,"pl_orbsmax":0.149,"discoverymethod":"Transit","disc_year":2018,"st_teff":6351.0,"st_rad":1.31,"st_mass":1.21,"st_spectype":"","dist_ly":2158.74,"x_ly":-2139.18,"y_ly":-286.62,"z_ly":-43.74,"characteristics":{"radius_position":"Super-Earth","atmosphere_type":"CO2-SO2 (Hot Dense)","principal_material":"Rocky (Silicates)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":2158.74,"orbit_type":"Circular - Hot Zone","coordinates_3d":{"x_light_years":-2139.18,"y_light_years":-286.62,"z_light_years":-43.74,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-99 b","hostname":"K2-99","sy_dist":519.229,"ra":208.773762,"dec":-5.442494,"pl_rade":11.88152,"pl_bmasse":276.510714,"pl_eqt":1184.0,"pl_orbper":18.24783,"pl_orbsmax":0.153,"discoverymethod":"Transit","disc_year":2016,"st_teff":6069.0,"st_rad":2.55,"st_mass":1.44,"st_spectype":"","dist_ly":1693.5,"x_ly":-1477.7,"y_ly":-811.49,"z_ly":-160.62,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1693.5,"orbit_type":"Circular - Hot Zone","coordinates_3d":{"x_light_years":-1477.7,"y_light_years":-811.49,"z_light_years":-160.62,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-378 b","hostname":"K2-378","sy_dist":687.973,"ra":205.159657,"dec":-11.117233,"pl_rade":2.88,"pl_bmasse":null,"pl_eqt":null,"pl_orbper":2.060438,"pl_orbsmax":null,"discoverymethod":"Transit","disc_year":2022,"st_teff":4823.0,"st_rad":0.732,"st_mass":0.923,"st_spectype":"","dist_ly":2243.87,"x_ly":-1992.87,"y_ly":-936.06,"z_ly":-432.66,"characteristics":{"radius_position":"Super-Earth","atmosphere_type":"CO2-N2 (Dense)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":15,"toxicity_percent":80,"distance_to_earth_ly":2243.87,"coordinates_3d":{"x_light_years":-1992.87,"y_light_years":-936.06,"z_light_years":-432.66,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"EPIC 201427007 b","hostname":"EPIC 201427007","sy_dist":706.391,"ra":184.602132,"dec":-0.551289,"pl_rade":1.5,"pl_bmasse":null,"pl_eqt":null,"pl_orbper":0.72091,"pl_orbsmax":null,"discoverymethod":"Transit","disc_year":2021,"st_teff":5633.0,"st_rad":0.94,"st_mass":null,"st_spectype":"","dist_ly":2303.94,"x_ly":-2296.4,"y_ly":-184.85,"z_ly":-22.17,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":100,"toxicity_percent":10,"distance_to_earth_ly":2303.94,"coordinates_3d":{"x_light_years":-2296.4,"y_light_years":-184.85,"z_light_years":-22.17,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-246 b","hostname":"K2-246","sy_dist":703.616,"ra":181.629612,"dec":-1.1606,"pl_rade":3.49,"pl_bmasse":null,"pl_eqt":977.0,"pl_orbper":5.76918,"pl_orbsmax":0.0602,"discoverymethod":"Transit","disc_year":2018,"st_teff":5610.0,"st_rad":0.94,"st_mass":0.87,"st_spectype":"","dist_ly":2294.89,"x_ly":-2293.49,"y_ly":-65.25,"z_ly":-46.48,"characteristics":{"radius_position":"Neptune-like","atmosphere_type":"H2-He-CH4 (Ice Giant)","principal_material":"Ice/Gas (Water/Ammonia/Methane)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":2294.89,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-2293.49,"y_light_years":-65.25,"z_light_years":-46.48,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"OGLE-2017-BLG-1434L b","hostname":"OGLE-2017-BLG-1434L","sy_dist":860.0,"ra":268.280467,"dec":-30.245658,"pl_rade":null,"pl_bmasse":4.43,"pl_eqt":null,"pl_orbper":null,"pl_orbsmax":1.18,"discoverymethod":"Microlensing","disc_year":2018,"st_teff":null,"st_rad":null,"st_mass":0.234,"st_spectype":"","dist_ly":2804.94,"x_ly":-72.71,"y_ly":-2422.02,"z_ly":-1412.87,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":2804.94,"orbit_type":"Circular - Habitable Zone","coordinates_3d":{"x_light_years":-72.71,"y_light_years":-2422.02,"z_light_years":-1412.87,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-249 b","hostname":"K2-249","sy_dist":521.716,"ra":183.366734,"dec":-8.995231,"pl_rade":2.79,"pl_bmasse":null,"pl_eqt":1061.0,"pl_orbper":12.409,"pl_orbsmax":0.1151,"discoverymethod":"Transit","disc_year":2018,"st_teff":6504.0,"st_rad":1.57,"st_mass":1.32,"st_spectype":"","dist_ly":1701.61,"x_ly":-1677.78,"y_ly":-98.7,"z_ly":-266.05,"characteristics":{"radius_position":"Super-Earth","atmosphere_type":"CO2-SO2 (Hot Dense)","principal_material":"Rocky (Iron/Silicates - Molten)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1701.61,"orbit_type":"Circular - Hot Zone","coordinates_3d":{"x_light_years":-1677.78,"y_light_years":-98.7,"z_light_years":-266.05,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"MOA-2010-BLG-328L b","hostname":"MOA-2010-BLG-328L","sy_dist":810.0,"ra":269.496333,"dec":-30.715175,"pl_rade":null,"pl_bmasse":9.2,"pl_eqt":null,"pl_orbper":null,"pl_orbsmax":0.92,"discoverymethod":"Microlensing","disc_year":2013,"st_teff":null,"st_rad":null,"st_mass":0.11,"st_spectype":"","dist_ly":2641.86,"x_ly":-19.97,"y_ly":-2271.17,"z_ly":-1349.39,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":2641.86,"orbit_type":"Circular - Habitable Zone","coordinates_3d":{"x_light_years":-19.97,"y_light_years":-2271.17,"z_light_years":-1349.39,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-194 b","hostname":"K2-194","sy_dist":629.51,"ra":204.608976,"dec":-8.927161,"pl_rade":3.642299,"pl_bmasse":null,"pl_eqt":null,"pl_orbper":39.721386,"pl_orbsmax":null,"discoverymethod":"Transit","disc_year":2018,"st_teff":5979.0,"st_rad":1.281115,"st_mass":1.110086,"st_spectype":"","dist_ly":2053.18,"x_ly":-1844.08,"y_ly":-844.64,"z_ly":-318.61,"characteristics":{"radius_position":"Neptune-like","atmosphere_type":"H2-He-CH4 (Ice Giant)","principal_material":"Ice/Gas (Water/Ammonia/Methane)","habitability_percent":0,"toxicity_percent":80,"distance_to_earth_ly":2053.18,"coordinates_3d":{"x_light_years":-1844.08,"y_light_years":-844.64,"z_light_years":-318.61,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"NY Vir b","hostname":"NY Vir","sy_dist":544.024,"ra":204.700585,"dec":-2.030387,"pl_rade":null,"pl_bmasse":730.978,"pl_eqt":null,"pl_orbper":2900.0,"pl_orbsmax":3.3,"discoverymethod":"Eclipse Timing Variations","disc_year":2011,"st_teff":32780.0,"st_rad":0.151,"st_mass":0.459,"st_spectype":"","dist_ly":1774.37,"x_ly":-1611.01,"y_ly":-741.0,"z_ly":-62.86,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":1774.37,"orbit_type":"Circular - Cold Zone","coordinates_3d":{"x_light_years":-1611.01,"y_light_years":-741.0,"z_light_years":-62.86,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"WASP-192 b","hostname":"WASP-192","sy_dist":508.885,"ra":223.658719,"dec":-38.744547,"pl_rade":13.78707,"pl_bmasse":731.009,"pl_eqt":1620.0,"pl_orbper":2.878677,"pl_orbsmax":0.0408,"discoverymethod":"Transit","disc_year":2019,"st_teff":5910.0,"st_rad":1.32,"st_mass":1.09,"st_spectype":"G0 V","dist_ly":1659.76,"x_ly":-936.54,"y_ly":-893.69,"z_ly":-1038.76,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1659.76,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-936.54,"y_light_years":-893.69,"z_light_years":-1038.76,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"HATS-56 b","hostname":"HATS-56","sy_dist":564.409,"ra":180.165072,"dec":-45.799456,"pl_rade":18.920792,"pl_bmasse":191.33366,"pl_eqt":1902.0,"pl_orbper":4.324799,"pl_orbsmax":0.06043,"discoverymethod":"Transit","disc_year":2019,"st_teff":6536.0,"st_rad":2.201,"st_mass":1.573,"st_spectype":"","dist_ly":1840.85,"x_ly":-1283.39,"y_ly":-3.7,"z_ly":-1319.72,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1840.85,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-1283.39,"y_light_years":-3.7,"z_light_years":-1319.72,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"TOI-3976 A b","hostname":"TOI-3976 A","sy_dist":516.087,"ra":224.356008,"dec":44.274322,"pl_rade":12.273834,"pl_bmasse":55.619971,"pl_eqt":1295.0,"pl_orbper":6.607662,"pl_orbsmax":0.0743,"discoverymethod":"Transit","disc_year":2023,"st_teff":5975.0,"st_rad":1.501,"st_mass":1.254,"st_spectype":"","dist_ly":1683.25,"x_ly":-861.74,"y_ly":-842.58,"z_ly":1175.07,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1683.25,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-861.74,"y_light_years":-842.58,"z_light_years":1175.07,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"TOI-3464 b","hostname":"TOI-3464","sy_dist":597.774,"ra":234.483036,"dec":-44.789977,"pl_rade":13.764628,"pl_bmasse":397.285509,"pl_eqt":1693.0,"pl_orbper":3.651557,"pl_orbsmax":0.0515,"discoverymethod":"Transit","disc_year":2025,"st_teff":6370.0,"st_rad":1.56,"st_mass":1.363,"st_spectype":"","dist_ly":1949.68,"x_ly":-803.84,"y_ly":-1126.23,"z_ly":-1373.57,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":1949.68,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-803.84,"y_light_years":-1126.23,"z_light_years":-1373.57,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-351 b","hostname":"K2-351","sy_dist":694.734,"ra":206.652241,"dec":-11.804959,"pl_rade":2.54,"pl_bmasse":null,"pl_eqt":934.0,"pl_orbper":7.806164,"pl_orbsmax":null,"discoverymethod":"Transit","disc_year":2021,"st_teff":5769.0,"st_rad":1.05,"st_mass":1.02,"st_spectype":"","dist_ly":2265.92,"x_ly":-1982.32,"y_ly":-994.93,"z_ly":-463.56,"characteristics":{"radius_position":"Super-Earth","atmosphere_type":"CO2-SO2 (Hot Dense)","principal_material":"Rocky (Silicates)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":2265.92,"coordinates_3d":{"x_light_years":-1982.32,"y_light_years":-994.93,"z_light_years":-463.56,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"BD+42 2315 b","hostname":"BD+42 2315","sy_dist":610.715,"ra":187.58876,"dec":41.269567,"pl_rade":null,"pl_bmasse":174.805624,"pl_eqt":null,"pl_orbper":123.05,"pl_orbsmax":0.54,"discoverymethod":"Radial Velocity","disc_year":2023,"st_teff":4500.0,"st_rad":17.85,"st_mass":1.38,"st_spectype":"","dist_ly":1991.88,"x_ly":-1484.02,"y_ly":-197.71,"z_ly":1313.85,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":1991.88,"orbit_type":"Circular - Habitable Zone","coordinates_3d":{"x_light_years":-1484.02,"y_light_years":-197.71,"z_light_years":1313.85,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-52 b","hostname":"K2-52","sy_dist":1038.41,"ra":246.611416,"dec":-24.969946,"pl_rade":18.0,"pl_bmasse":null,"pl_eqt":2004.0,"pl_orbper":3.535055,"pl_orbsmax":0.054,"discoverymethod":"Transit","disc_year":2016,"st_teff":7147.0,"st_rad":2.192,"st_mass":1.691,"st_spectype":"","dist_ly":3386.84,"x_ly":-1218.79,"y_ly":-2817.99,"z_ly":-1429.73,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":3386.84,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-1218.79,"y_light_years":-2817.99,"z_light_years":-1429.73,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"NGTS-32 b","hostname":"NGTS-32","sy_dist":837.457,"ra":223.857623,"dec":-18.432319,"pl_rade":15.916753,"pl_bmasse":181.162192,"pl_eqt":1750.0,"pl_orbper":3.31211,"pl_orbsmax":0.044,"discoverymethod":"Transit","disc_year":2025,"st_teff":5680.0,"st_rad":1.85,"st_mass":1.07,"st_spectype":"","dist_ly":2731.42,"x_ly":-1868.48,"y_ly":-1795.42,"z_ly":-863.63,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":2731.42,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-1868.48,"y_light_years":-1795.42,"z_light_years":-863.63,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"EPIC 212624936 c","hostname":"EPIC 212624936","sy_dist":561.929,"ra":210.637617,"dec":-10.023685,"pl_rade":2.3,"pl_bmasse":null,"pl_eqt":null,"pl_orbper":11.811437,"pl_orbsmax":null,"discoverymethod":"Transit","disc_year":2021,"st_teff":5765.0,"st_rad":0.93,"st_mass":null,"st_spectype":"","dist_ly":1832.77,"x_ly":-1552.85,"y_ly":-919.73,"z_ly":-319.0,"characteristics":{"radius_position":"Super-Earth","atmosphere_type":"CO2-N2 (Dense)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":15,"toxicity_percent":80,"distance_to_earth_ly":1832.77,"coordinates_3d":{"x_light_years":-1552.85,"y_light_years":-919.73,"z_light_years":-319.0,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"OGLE-2006-BLG-109L c","hostname":"OGLE-2006-BLG-109L","sy_dist":1510.0,"ra":268.143792,"dec":-30.087778,"pl_rade":null,"pl_bmasse":86.0,"pl_eqt":null,"pl_orbper":4927.5,"pl_orbsmax":4.5,"discoverymethod":"Microlensing","disc_year":2008,"st_teff":null,"st_rad":null,"st_mass":0.51,"st_spectype":"","dist_ly":4924.96,"x_ly":-138.03,"y_ly":-4259.12,"z_ly":-2469.01,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":4924.96,"orbit_type":"Circular - Cold Zone","coordinates_3d":{"x_light_years":-138.03,"y_light_years":-4259.12,"z_light_years":-2469.01,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"OGLE-2013-BLG-0341L B b","hostname":"OGLE-2013-BLG-0341L B","sy_dist":1161.0,"ra":268.031208,"dec":-29.846111,"pl_rade":null,"pl_bmasse":2.32,"pl_eqt":null,"pl_orbper":null,"pl_orbsmax":0.883,"discoverymethod":"Microlensing","disc_year":2014,"st_teff":null,"st_rad":null,"st_mass":0.1452,"st_spectype":"","dist_ly":3786.67,"x_ly":-112.84,"y_ly":-3282.49,"z_ly":-1884.52,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":100,"toxicity_percent":10,"distance_to_earth_ly":3786.67,"orbit_type":"Circular - Habitable Zone","coordinates_3d":{"x_light_years":-112.84,"y_light_years":-3282.49,"z_light_years":-1884.52,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"PSR B1257+12 b","hostname":"PSR B1257+12","sy_dist":600.0,"ra":195.014903,"dec":12.682353,"pl_rade":null,"pl_bmasse":0.02,"pl_eqt":null,"pl_orbper":25.262,"pl_orbsmax":0.19,"discoverymethod":"Pulsar Timing","disc_year":1994,"st_teff":null,"st_rad":null,"st_mass":1.4,"st_spectype":"","dist_ly":1956.94,"x_ly":-1844.01,"y_ly":-494.61,"z_ly":429.64,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":1956.94,"orbit_type":"Circular - Hot Zone","coordinates_3d":{"x_light_years":-1844.01,"y_light_years":-494.61,"z_light_years":429.64,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"OGLE-TR-10 b","hostname":"OGLE-TR-10","sy_dist":1344.97,"ra":267.867748,"dec":-29.876476,"pl_rade":19.27948,"pl_bmasse":216.1244,"pl_eqt":1702.0,"pl_orbper":3.101278,"pl_orbsmax":0.04516,"discoverymethod":"Transit","disc_year":2004,"st_teff":6075.0,"st_rad":1.52,"st_mass":1.277,"st_spectype":"","dist_ly":4386.7,"x_ly":-141.52,"y_ly":-3801.08,"z_ly":-2185.15,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":4386.7,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-141.52,"y_light_years":-3801.08,"z_light_years":-2185.15,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-278 b","hostname":"K2-278","sy_dist":786.439,"ra":203.301865,"dec":-14.504106,"pl_rade":2.98,"pl_bmasse":null,"pl_eqt":1711.0,"pl_orbper":3.334966,"pl_orbsmax":0.0488,"discoverymethod":"Transit","disc_year":2018,"st_teff":6747.0,"st_rad":1.61,"st_mass":1.4,"st_spectype":"","dist_ly":2565.02,"x_ly":-2280.72,"y_ly":-982.32,"z_ly":-642.41,"characteristics":{"radius_position":"Super-Earth","atmosphere_type":"CO2-SO2 (Hot Dense)","principal_material":"Rocky (Iron/Silicates - Molten)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":2565.02,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-2280.72,"y_light_years":-982.32,"z_light_years":-642.41,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"NY Vir c","hostname":"NY Vir","sy_dist":544.024,"ra":204.700585,"dec":-2.030387,"pl_rade":null,"pl_bmasse":1760.7782,"pl_eqt":null,"pl_orbper":8799.0,"pl_orbsmax":null,"discoverymethod":"Eclipse Timing Variations","disc_year":2019,"st_teff":32780.0,"st_rad":0.151,"st_mass":0.459,"st_spectype":"","dist_ly":1774.37,"x_ly":-1611.01,"y_ly":-741.0,"z_ly":-62.86,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":1774.37,"coordinates_3d":{"x_light_years":-1611.01,"y_light_years":-741.0,"z_light_years":-62.86,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"Lupus-TR-3 b","hostname":"Lupus-TR-3","sy_dist":773.409,"ra":232.57747,"dec":-42.979946,"pl_rade":9.976,"pl_bmasse":257.431,"pl_eqt":null,"pl_orbper":3.91405,"pl_orbsmax":0.0464,"discoverymethod":"Transit","disc_year":2007,"st_teff":5000.0,"st_rad":0.82,"st_mass":0.87,"st_spectype":"","dist_ly":2522.52,"x_ly":-1121.46,"y_ly":-1465.62,"z_ly":-1719.71,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":80,"distance_to_earth_ly":2522.52,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-1121.46,"y_light_years":-1465.62,"z_light_years":-1719.71,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"OGLE-2006-BLG-109L b","hostname":"OGLE-2006-BLG-109L","sy_dist":1490.0,"ra":268.143792,"dec":-30.087778,"pl_rade":null,"pl_bmasse":230.0,"pl_eqt":82.0,"pl_orbper":null,"pl_orbsmax":2.3,"discoverymethod":"Microlensing","disc_year":2008,"st_teff":null,"st_rad":null,"st_mass":0.5,"st_spectype":"","dist_ly":4859.72,"x_ly":-136.2,"y_ly":-4202.71,"z_ly":-2436.31,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-CH4 (Cold Thin)","principal_material":"Rocky/Ice (Silicates/Frozen Volatiles)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":4859.72,"orbit_type":"Circular - Cold Zone","coordinates_3d":{"x_light_years":-136.2,"y_light_years":-4202.71,"z_light_years":-2436.31,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-161 b","hostname":"K2-161","sy_dist":916.319,"ra":183.793849,"dec":-3.495691,"pl_rade":6.117212,"pl_bmasse":null,"pl_eqt":null,"pl_orbper":9.283188,"pl_orbsmax":null,"discoverymethod":"Transit","disc_year":2018,"st_teff":4972.0,"st_rad":2.568173,"st_mass":0.986876,"st_spectype":"","dist_ly":2988.63,"x_ly":-2976.53,"y_ly":-197.38,"z_ly":-182.23,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":80,"distance_to_earth_ly":2988.63,"coordinates_3d":{"x_light_years":-2976.53,"y_light_years":-197.38,"z_light_years":-182.23,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"NGTS-26 b","hostname":"NGTS-26","sy_dist":1093.69,"ra":217.683296,"dec":-31.732453,"pl_rade":14.885526,"pl_bmasse":92.805895,"pl_eqt":1331.0,"pl_orbper":4.519928,"pl_orbsmax":0.049,"discoverymethod":"Transit","disc_year":2024,"st_teff":5550.0,"st_rad":1.16,"st_mass":0.96,"st_spectype":"","dist_ly":3567.14,"x_ly":-2401.03,"y_ly":-1854.61,"z_ly":-1876.15,"characteristics":{"radius_position":"Jupiter-like","atmosphere_type":"H2-He (Dense Gas Giant)","principal_material":"Gas (Hydrogen/Helium)","habitability_percent":0,"toxicity_percent":100,"distance_to_earth_ly":3567.14,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-2401.03,"y_light_years":-1854.61,"z_light_years":-1876.15,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"IC 4651 9122 b","hostname":"IC 4651 9122","sy_dist":859.324,"ra":261.208614,"dec":-49.948932,"pl_rade":null,"pl_bmasse":2002.329,"pl_eqt":null,"pl_orbper":734.0,"pl_orbsmax":2.038,"discoverymethod":"Radial Velocity","disc_year":2018,"st_teff":null,"st_rad":null,"st_mass":2.1,"st_spectype":"","dist_ly":2802.74,"x_ly":-275.64,"y_ly":-1782.29,"z_ly":-2145.41,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":2802.74,"orbit_type":"Circular - Cold Zone","coordinates_3d":{"x_light_years":-275.64,"y_light_years":-1782.29,"z_light_years":-2145.41,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"K2-196 b","hostname":"K2-196","sy_dist":584.877,"ra":200.456249,"dec":-8.47171,"pl_rade":3.599705,"pl_bmasse":null,"pl_eqt":null,"pl_orbper":48.324222,"pl_orbsmax":null,"discoverymethod":"Transit","disc_year":2018,"st_teff":6045.0,"st_rad":1.538801,"st_mass":1.162095,"st_spectype":"","dist_ly":1907.61,"x_ly":-1767.81,"y_ly":-659.42,"z_ly":-281.03,"characteristics":{"radius_position":"Neptune-like","atmosphere_type":"H2-He-CH4 (Ice Giant)","principal_material":"Ice/Gas (Water/Ammonia/Methane)","habitability_percent":0,"toxicity_percent":80,"distance_to_earth_ly":1907.61,"coordinates_3d":{"x_light_years":-1767.81,"y_light_years":-659.42,"z_light_years":-281.03,"system":"Pre-computed (RA/Dec/Distance)"}}},{"pl_name":"PSR J1719-1438 b","hostname":"PSR J1719-1438","sy_dist":1200.0,"ra":259.791971,"dec":-14.6336,"pl_rade":null,"pl_bmasse":382.8,"pl_eqt":null,"pl_orbper":0.090706,"pl_orbsmax":0.0044,"discoverymethod":"Pulsar Timing","disc_year":2011,"st_teff":4500.0,"st_rad":null,"st_mass":1.4,"st_spectype":"","dist_ly":3913.87,"x_ly":-671.13,"y_ly":-3726.97,"z_ly":-988.79,"characteristics":{"radius_position":"Earth-like","atmosphere_type":"N2-O2 (Potentially Breathable)","principal_material":"Rocky (Silicates/Iron/Water)","habitability_percent":85,"toxicity_percent":10,"distance_to_earth_ly":3913.87,"orbit_type":"Ultra-short - Scorching Zone","coordinates_3d":{"x_light_years":-671.13,"y_light_years":-3726.97,"z_light_years":-988.79,"system":"Pre-computed (RA/Dec/Distance)"}}}]
+[
+  {
+    "pl_name": "K2-132 b",
+    "hostname": "K2-132",
+    "sy_dist": 609.818,
+    "ra": 182.166267,
+    "dec": -8.747217,
+    "pl_rade": 12.206601,
+    "pl_bmasse": 157.32585,
+    "pl_eqt": 1586.0,
+    "pl_orbper": 9.1708,
+    "pl_orbsmax": 0.0916,
+    "discoverymethod": "Transit",
+    "disc_year": 2017,
+    "st_teff": 4878.0,
+    "st_rad": 4.11,
+    "st_mass": 1.19,
+    "st_spectype": "",
+    "dist_ly": 1988.96,
+    "x_ly": -1964.42,
+    "y_ly": -74.31,
+    "z_ly": -302.47,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1988.96,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -602.2944,
+        "y_parsecs": -22.7827,
+        "z_parsecs": -92.7383,
+        "x_light_years": -1964.4193,
+        "y_light_years": -74.3071,
+        "z_light_years": -302.4715,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 182.166267,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -8.747217,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 609.818,
+          "light_years": 1988.958,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-230 b",
+    "hostname": "K2-230",
+    "sy_dist": 540.773,
+    "ra": 191.363117,
+    "dec": -6.576051,
+    "pl_rade": 1.96,
+    "pl_bmasse": null,
+    "pl_eqt": 1529.0,
+    "pl_orbper": 2.86041,
+    "pl_orbsmax": 0.0409,
+    "discoverymethod": "Transit",
+    "disc_year": 2018,
+    "st_teff": 5945.0,
+    "st_rad": 1.39,
+    "st_mass": 1.11,
+    "st_spectype": "",
+    "dist_ly": 1763.76,
+    "x_ly": -1717.81,
+    "y_ly": -345.22,
+    "z_ly": -201.99,
+    "characteristics": {
+      "radius_position": "Super-Earth",
+      "atmosphere_type": "Thin/None (Hot)",
+      "principal_material": "Rocky/Ice (estimated)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1763.76,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -526.6847,
+        "y_parsecs": -105.8455,
+        "z_parsecs": -61.9304,
+        "x_light_years": -1717.8138,
+        "y_light_years": -345.2214,
+        "z_light_years": -201.9896,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 191.363117,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -6.576051,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 540.773,
+          "light_years": 1763.7636,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "EPIC 212424622 b",
+    "hostname": "EPIC 212424622",
+    "sy_dist": 611.804,
+    "ra": 202.331377,
+    "dec": -14.359436,
+    "pl_rade": 2.17,
+    "pl_bmasse": null,
+    "pl_eqt": null,
+    "pl_orbper": 18.0983,
+    "pl_orbsmax": null,
+    "discoverymethod": "Transit",
+    "disc_year": 2019,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 1.106,
+    "st_spectype": "",
+    "dist_ly": 1995.44,
+    "x_ly": -1788.12,
+    "y_ly": -734.5,
+    "z_ly": -494.88,
+    "characteristics": {
+      "radius_position": "Mini-Neptune",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Mini)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 80,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1995.44,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown",
+      "coordinates_3d": {
+        "x_parsecs": -548.2399,
+        "y_parsecs": -225.2004,
+        "z_parsecs": -151.7299,
+        "x_light_years": -1788.1173,
+        "y_light_years": -734.5045,
+        "z_light_years": -494.8762,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 202.331377,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -14.359436,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 611.804,
+          "light_years": 1995.4355,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "KMT-2018-BLG-1990L b",
+    "hostname": "KMT-2018-BLG-1990L",
+    "sy_dist": 937.0,
+    "ra": 268.435375,
+    "dec": -22.152539,
+    "pl_rade": null,
+    "pl_bmasse": 180.0,
+    "pl_eqt": null,
+    "pl_orbper": null,
+    "pl_orbsmax": 0.883,
+    "discoverymethod": "Microlensing",
+    "disc_year": 2019,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 0.095,
+    "st_spectype": "",
+    "dist_ly": 3056.08,
+    "x_ly": -77.29,
+    "y_ly": -2829.44,
+    "z_ly": -1152.37,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 3056.08,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -23.6957,
+        "y_parsecs": -867.5101,
+        "z_parsecs": -353.3181,
+        "x_light_years": -77.2851,
+        "y_light_years": -2829.4364,
+        "z_light_years": -1152.3681,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 268.435375,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -22.152539,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 937.0,
+          "light_years": 3056.0817,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "OGLE-2012-BLG-0358L b",
+    "hostname": "OGLE-2012-BLG-0358L",
+    "sy_dist": 1760.0,
+    "ra": 265.694875,
+    "dec": -24.261,
+    "pl_rade": null,
+    "pl_bmasse": 588.0,
+    "pl_eqt": null,
+    "pl_orbper": null,
+    "pl_orbsmax": 0.87,
+    "discoverymethod": "Microlensing",
+    "disc_year": 2013,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 0.022,
+    "st_spectype": "",
+    "dist_ly": 5740.35,
+    "x_ly": -392.86,
+    "y_ly": -5218.61,
+    "z_ly": -2358.67,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 5740.35,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -120.4512,
+        "y_parsecs": -1600.035,
+        "z_parsecs": -723.1732,
+        "x_light_years": -392.8587,
+        "y_light_years": -5218.6101,
+        "z_light_years": -2358.6729,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 265.694875,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -24.261,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 1760.0,
+          "light_years": 5740.3456,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "NN Ser c",
+    "hostname": "NN Ser",
+    "sy_dist": 515.818,
+    "ra": 238.233701,
+    "dec": 12.912087,
+    "pl_rade": null,
+    "pl_bmasse": 2196.11,
+    "pl_eqt": null,
+    "pl_orbper": 5660.0,
+    "pl_orbsmax": 5.38,
+    "discoverymethod": "Eclipse Timing Variations",
+    "disc_year": 2010,
+    "st_teff": 57000.0,
+    "st_rad": null,
+    "st_mass": 0.535,
+    "st_spectype": "WD",
+    "dist_ly": 1682.37,
+    "x_ly": -863.3,
+    "y_ly": -1394.19,
+    "z_ly": 375.94,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 1682.37,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Cold Zone",
+      "coordinates_3d": {
+        "x_parsecs": -264.6889,
+        "y_parsecs": -427.4606,
+        "z_parsecs": 115.2625,
+        "x_light_years": -863.2986,
+        "y_light_years": -1394.1884,
+        "z_light_years": 375.9355,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 238.233701,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 12.912087,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 515.818,
+          "light_years": 1682.3714,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "NN Ser d",
+    "hostname": "NN Ser",
+    "sy_dist": 515.818,
+    "ra": 238.233701,
+    "dec": 12.912087,
+    "pl_rade": null,
+    "pl_bmasse": 724.622,
+    "pl_eqt": null,
+    "pl_orbper": 2830.0,
+    "pl_orbsmax": 3.39,
+    "discoverymethod": "Eclipse Timing Variations",
+    "disc_year": 2010,
+    "st_teff": 57000.0,
+    "st_rad": null,
+    "st_mass": 0.535,
+    "st_spectype": "WD",
+    "dist_ly": 1682.37,
+    "x_ly": -863.3,
+    "y_ly": -1394.19,
+    "z_ly": 375.94,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 1682.37,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Temperate Zone",
+      "coordinates_3d": {
+        "x_parsecs": -264.6889,
+        "y_parsecs": -427.4606,
+        "z_parsecs": 115.2625,
+        "x_light_years": -863.2986,
+        "y_light_years": -1394.1884,
+        "z_light_years": 375.9355,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 238.233701,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 12.912087,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 515.818,
+          "light_years": 1682.3714,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "TrES-4 b",
+    "hostname": "TrES-4",
+    "sy_dist": 515.98,
+    "ra": 268.304336,
+    "dec": 37.21174,
+    "pl_rade": 19.626959,
+    "pl_bmasse": 292.4036,
+    "pl_eqt": 1785.0,
+    "pl_orbper": 3.553945,
+    "pl_orbsmax": 0.05092,
+    "discoverymethod": "Transit",
+    "disc_year": 2007,
+    "st_teff": 6200.0,
+    "st_rad": 1.816,
+    "st_mass": 1.394,
+    "st_spectype": "",
+    "dist_ly": 1682.9,
+    "x_ly": -39.66,
+    "y_ly": -1339.68,
+    "z_ly": 1017.75,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1682.9,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -12.1597,
+        "y_parsecs": -410.7496,
+        "z_parsecs": 312.0453,
+        "x_light_years": -39.6594,
+        "y_light_years": -1339.6846,
+        "z_light_years": 1017.7543,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 268.304336,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 37.21174,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 515.98,
+          "light_years": 1682.8997,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "TIC 257060897 b",
+    "hostname": "TIC 257060897",
+    "sy_dist": 505.703,
+    "ra": 227.532153,
+    "dec": 72.710313,
+    "pl_rade": 17.26183,
+    "pl_bmasse": 201.50321,
+    "pl_eqt": 1775.0,
+    "pl_orbper": 3.660036,
+    "pl_orbsmax": 0.04922,
+    "discoverymethod": "Transit",
+    "disc_year": 2021,
+    "st_teff": 5993.0,
+    "st_rad": 1.863,
+    "st_mass": 1.187,
+    "st_spectype": "F",
+    "dist_ly": 1649.38,
+    "x_ly": -330.97,
+    "y_ly": -361.6,
+    "z_ly": 1574.85,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1649.38,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -101.4766,
+        "y_parsecs": -110.8671,
+        "z_parsecs": 482.8525,
+        "x_light_years": -330.9721,
+        "y_light_years": -361.5998,
+        "z_light_years": 1574.8523,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 227.532153,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 72.710313,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 505.703,
+          "light_years": 1649.3807,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "TOI-4379 b",
+    "hostname": "TOI-4379",
+    "sy_dist": 645.158,
+    "ra": 252.047881,
+    "dec": -32.433753,
+    "pl_rade": 16.690172,
+    "pl_bmasse": 353.743017,
+    "pl_eqt": null,
+    "pl_orbper": 3.25352,
+    "pl_orbsmax": null,
+    "discoverymethod": "Transit",
+    "disc_year": 2024,
+    "st_teff": 6020.0,
+    "st_rad": 1.976,
+    "st_mass": 1.372,
+    "st_spectype": "",
+    "dist_ly": 2104.22,
+    "x_ly": -547.4,
+    "y_ly": -1689.52,
+    "z_ly": -1128.54,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Gas Giant)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 80,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2104.22,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown",
+      "coordinates_3d": {
+        "x_parsecs": -167.8335,
+        "y_parsecs": -518.0108,
+        "z_parsecs": -346.0138,
+        "x_light_years": -547.3989,
+        "y_light_years": -1689.5235,
+        "z_light_years": -1128.5447,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 252.047881,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -32.433753,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 645.158,
+          "light_years": 2104.2215,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "HAT-P-55 b",
+    "hostname": "HAT-P-55",
+    "sy_dist": 511.388,
+    "ra": 264.27351,
+    "dec": 25.731147,
+    "pl_rade": 13.249038,
+    "pl_bmasse": 184.97706,
+    "pl_eqt": 1313.0,
+    "pl_orbper": 3.585247,
+    "pl_orbsmax": 0.04604,
+    "discoverymethod": "Transit",
+    "disc_year": 2015,
+    "st_teff": 5808.0,
+    "st_rad": 1.011,
+    "st_mass": 1.013,
+    "st_spectype": "",
+    "dist_ly": 1667.92,
+    "x_ly": -149.92,
+    "y_ly": -1495.04,
+    "z_ly": 724.13,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1667.92,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -45.9665,
+        "y_parsecs": -458.3804,
+        "z_parsecs": 222.0185,
+        "x_light_years": -149.9225,
+        "y_light_years": -1495.035,
+        "z_light_years": 724.1267,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 264.27351,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 25.731147,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 511.388,
+          "light_years": 1667.9226,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-253 b",
+    "hostname": "K2-253",
+    "sy_dist": 876.565,
+    "ra": 186.085306,
+    "dec": -6.378954,
+    "pl_rade": 12.67,
+    "pl_bmasse": null,
+    "pl_eqt": 1238.0,
+    "pl_orbper": 4.00167,
+    "pl_orbsmax": 0.0506,
+    "discoverymethod": "Transit",
+    "disc_year": 2018,
+    "st_teff": 6027.0,
+    "st_rad": 1.1,
+    "st_mass": 1.08,
+    "st_spectype": "",
+    "dist_ly": 2858.97,
+    "x_ly": -2825.26,
+    "y_ly": -301.2,
+    "z_ly": -317.64,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2858.97,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -866.2293,
+        "y_parsecs": -92.3485,
+        "z_parsecs": -97.3898,
+        "x_light_years": -2825.2588,
+        "y_light_years": -301.2002,
+        "z_light_years": -317.6426,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 186.085306,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -6.378954,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 876.565,
+          "light_years": 2858.9693,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-127 b",
+    "hostname": "K2-127",
+    "sy_dist": 709.999,
+    "ra": 207.07829,
+    "dec": -11.588988,
+    "pl_rade": 8.37,
+    "pl_bmasse": null,
+    "pl_eqt": 809.0,
+    "pl_orbper": 3.588163,
+    "pl_orbsmax": 0.0411,
+    "discoverymethod": "Transit",
+    "disc_year": 2017,
+    "st_teff": 4575.0,
+    "st_rad": 0.66,
+    "st_mass": 0.72,
+    "st_spectype": "",
+    "dist_ly": 2315.7,
+    "x_ly": -2019.84,
+    "y_ly": -1032.64,
+    "z_ly": -465.2,
+    "characteristics": {
+      "radius_position": "Neptune-like",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Ice Giant)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2315.7,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -619.2852,
+        "y_parsecs": -316.6082,
+        "z_parsecs": -142.6314,
+        "x_light_years": -2019.8357,
+        "y_light_years": -1032.6366,
+        "z_light_years": -465.201,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 207.07829,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -11.588988,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 709.999,
+          "light_years": 2315.7043,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "WASP-172 b",
+    "hostname": "WASP-172",
+    "sy_dist": 538.11,
+    "ra": 199.433742,
+    "dec": -47.237575,
+    "pl_rade": 17.59813,
+    "pl_bmasse": 149.3801,
+    "pl_eqt": 1740.0,
+    "pl_orbper": 5.477433,
+    "pl_orbsmax": 0.0694,
+    "discoverymethod": "Transit",
+    "disc_year": 2018,
+    "st_teff": 6900.0,
+    "st_rad": 1.91,
+    "st_mass": 1.49,
+    "st_spectype": "F1 V",
+    "dist_ly": 1755.08,
+    "x_ly": -1123.74,
+    "y_ly": -396.47,
+    "z_ly": -1288.53,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1755.08,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -344.5397,
+        "y_parsecs": -121.5597,
+        "z_parsecs": -395.0671,
+        "x_light_years": -1123.737,
+        "y_light_years": -396.4743,
+        "z_light_years": -1288.5349,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 199.433742,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -47.237575,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 538.11,
+          "light_years": 1755.0781,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "NGTS-18 b",
+    "hostname": "NGTS-18",
+    "sy_dist": 1096.19,
+    "ra": 180.546219,
+    "dec": -35.548609,
+    "pl_rade": 13.562867,
+    "pl_bmasse": 129.991818,
+    "pl_eqt": 1381.0,
+    "pl_orbper": 3.05125,
+    "pl_orbsmax": 0.0448,
+    "discoverymethod": "Transit",
+    "disc_year": 2021,
+    "st_teff": 5610.0,
+    "st_rad": 1.392,
+    "st_mass": 1.003,
+    "st_spectype": "G5 V",
+    "dist_ly": 3575.29,
+    "x_ly": -2908.8,
+    "y_ly": -27.73,
+    "z_ly": -2078.65,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 3575.29,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -891.8444,
+        "y_parsecs": -8.5025,
+        "z_parsecs": -637.3177,
+        "x_light_years": -2908.804,
+        "y_light_years": -27.7314,
+        "z_light_years": -2078.6498,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 180.546219,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -35.548609,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 1096.19,
+          "light_years": 3575.2895,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "NGTS-27 b",
+    "hostname": "NGTS-27",
+    "sy_dist": 942.122,
+    "ra": 206.026527,
+    "dec": -32.522975,
+    "pl_rade": 15.647737,
+    "pl_bmasse": 188.472245,
+    "pl_eqt": 1783.0,
+    "pl_orbper": 3.370418,
+    "pl_orbsmax": 0.0446,
+    "discoverymethod": "Transit",
+    "disc_year": 2024,
+    "st_teff": 5700.0,
+    "st_rad": 1.77,
+    "st_mass": 1.07,
+    "st_spectype": "",
+    "dist_ly": 3072.79,
+    "x_ly": -2328.16,
+    "y_ly": -1136.85,
+    "z_ly": -1652.05,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 3072.79,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -713.8179,
+        "y_parsecs": -348.5614,
+        "z_parsecs": -506.5204,
+        "x_light_years": -2328.1597,
+        "y_light_years": -1136.854,
+        "z_light_years": -1652.0465,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 206.026527,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -32.522975,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 942.122,
+          "light_years": 3072.7874,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "HATS-31 b",
+    "hostname": "HATS-31",
+    "sy_dist": 773.974,
+    "ra": 191.702821,
+    "dec": -24.42739,
+    "pl_rade": 18.38276,
+    "pl_bmasse": 279.6904,
+    "pl_eqt": 1823.0,
+    "pl_orbper": 3.37796,
+    "pl_orbsmax": 0.0478,
+    "discoverymethod": "Transit",
+    "disc_year": 2016,
+    "st_teff": 6050.0,
+    "st_rad": 1.87,
+    "st_mass": 1.275,
+    "st_spectype": "",
+    "dist_ly": 2524.36,
+    "x_ly": -2250.62,
+    "y_ly": -466.2,
+    "z_ly": -1043.92,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2524.36,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -690.044,
+        "y_parsecs": -142.9367,
+        "z_parsecs": -320.069,
+        "x_light_years": -2250.6198,
+        "y_light_years": -466.1965,
+        "z_light_years": -1043.9242,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 191.702821,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -24.42739,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 773.974,
+          "light_years": 2524.3626,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "WASP-92 b",
+    "hostname": "WASP-92",
+    "sy_dist": 575.889,
+    "ra": 246.692039,
+    "dec": 51.041133,
+    "pl_rade": 16.376349,
+    "pl_bmasse": 255.85315,
+    "pl_eqt": 1871.0,
+    "pl_orbper": 2.174674,
+    "pl_orbsmax": 0.0348,
+    "discoverymethod": "Transit",
+    "disc_year": 2016,
+    "st_teff": 6280.0,
+    "st_rad": 1.341,
+    "st_mass": 1.19,
+    "st_spectype": "F7",
+    "dist_ly": 1878.3,
+    "x_ly": -467.29,
+    "y_ly": -1084.62,
+    "z_ly": 1460.56,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1878.3,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -143.2722,
+        "y_parsecs": -332.547,
+        "z_parsecs": 447.8099,
+        "x_light_years": -467.2908,
+        "y_light_years": -1084.6222,
+        "z_light_years": 1460.5588,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 246.692039,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 51.041133,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 575.889,
+          "light_years": 1878.2965,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "HATS-54 b",
+    "hostname": "HATS-54",
+    "sy_dist": 748.585,
+    "ra": 200.634864,
+    "dec": -44.688839,
+    "pl_rade": 11.377115,
+    "pl_bmasse": 239.32479,
+    "pl_eqt": 1429.0,
+    "pl_orbper": 2.544176,
+    "pl_orbsmax": 0.037,
+    "discoverymethod": "Transit",
+    "disc_year": 2019,
+    "st_teff": 5621.0,
+    "st_rad": 1.23,
+    "st_mass": 1.05,
+    "st_spectype": "G6 V",
+    "dist_ly": 2441.55,
+    "x_ly": -1624.43,
+    "y_ly": -611.71,
+    "z_ly": -1717.04,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2441.55,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -498.0535,
+        "y_parsecs": -187.5519,
+        "z_parsecs": -526.4471,
+        "x_light_years": -1624.4313,
+        "y_light_years": -611.7119,
+        "z_light_years": -1717.0387,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 200.634864,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -44.688839,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 748.585,
+          "light_years": 2441.5549,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "WASP-150 b",
+    "hostname": "WASP-150",
+    "sy_dist": 527.995,
+    "ra": 264.26302,
+    "dec": 53.021275,
+    "pl_rade": 11.99363,
+    "pl_bmasse": 2688.8418,
+    "pl_eqt": 1460.0,
+    "pl_orbper": 5.644207,
+    "pl_orbsmax": 0.0694,
+    "discoverymethod": "Transit",
+    "disc_year": 2020,
+    "st_teff": 6218.0,
+    "st_rad": 1.651,
+    "st_mass": 1.394,
+    "st_spectype": "F8",
+    "dist_ly": 1722.09,
+    "x_ly": -103.55,
+    "y_ly": -1030.68,
+    "z_ly": 1375.7,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1722.09,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -31.7478,
+        "y_parsecs": -316.008,
+        "z_parsecs": 421.7935,
+        "x_light_years": -103.5473,
+        "y_light_years": -1030.6789,
+        "z_light_years": 1375.7049,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 264.26302,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 53.021275,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 527.995,
+          "light_years": 1722.0874,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "HATS-67 b",
+    "hostname": "HATS-67",
+    "sy_dist": 960.109,
+    "ra": 180.208788,
+    "dec": -46.13642,
+    "pl_rade": 18.887165,
+    "pl_bmasse": 460.8535,
+    "pl_eqt": 2193.0,
+    "pl_orbper": 1.609179,
+    "pl_orbsmax": 0.03032,
+    "discoverymethod": "Transit",
+    "disc_year": 2018,
+    "st_teff": 6594.0,
+    "st_rad": 1.441,
+    "st_mass": 1.435,
+    "st_spectype": "",
+    "dist_ly": 3131.45,
+    "x_ly": -2169.91,
+    "y_ly": -7.91,
+    "z_ly": -2257.75,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 3131.45,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -665.297,
+        "y_parsecs": -2.4244,
+        "z_parsecs": -692.2306,
+        "x_light_years": -2169.9062,
+        "y_light_years": -7.9073,
+        "z_light_years": -2257.7518,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 180.208788,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -46.13642,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 960.109,
+          "light_years": 3131.4531,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "HATS-27 b",
+    "hostname": "HATS-27",
+    "sy_dist": 816.988,
+    "ra": 193.55246,
+    "dec": -46.587716,
+    "pl_rade": 16.8135,
+    "pl_bmasse": 168.4499,
+    "pl_eqt": 1659.0,
+    "pl_orbper": 4.637038,
+    "pl_orbsmax": 0.0611,
+    "discoverymethod": "Transit",
+    "disc_year": 2016,
+    "st_teff": 6438.0,
+    "st_rad": 1.74,
+    "st_mass": 1.415,
+    "st_spectype": "F",
+    "dist_ly": 2664.66,
+    "x_ly": -1780.28,
+    "y_ly": -429.13,
+    "z_ly": -1935.68,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2664.66,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -545.8358,
+        "y_parsecs": -131.5723,
+        "z_parsecs": -593.4824,
+        "x_light_years": -1780.2763,
+        "y_light_years": -429.1309,
+        "z_light_years": -1935.6785,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 193.55246,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -46.587716,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 816.988,
+          "light_years": 2664.6554,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "TOI-3919 b",
+    "hostname": "TOI-3919",
+    "sy_dist": 604.591,
+    "ra": 208.944753,
+    "dec": 40.391806,
+    "pl_rade": 12.31867,
+    "pl_bmasse": 1233.174219,
+    "pl_eqt": 1198.0,
+    "pl_orbper": 7.433234,
+    "pl_orbsmax": 0.0795,
+    "discoverymethod": "Transit",
+    "disc_year": 2024,
+    "st_teff": 6100.0,
+    "st_rad": 1.319,
+    "st_mass": 1.208,
+    "st_spectype": "",
+    "dist_ly": 1971.91,
+    "x_ly": -1314.26,
+    "y_ly": -726.85,
+    "z_ly": 1277.82,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1971.91,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -402.9558,
+        "y_parsecs": -222.8544,
+        "z_parsecs": 391.7816,
+        "x_light_years": -1314.2645,
+        "y_light_years": -726.8529,
+        "z_light_years": 1277.8192,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 208.944753,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 40.391806,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 604.591,
+          "light_years": 1971.9098,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "TOI-3160 A b",
+    "hostname": "TOI-3160 A",
+    "sy_dist": 567.678,
+    "ra": 224.565855,
+    "dec": -27.68255,
+    "pl_rade": 13.764628,
+    "pl_bmasse": 378.215804,
+    "pl_eqt": 1539.0,
+    "pl_orbper": 3.971281,
+    "pl_orbsmax": 0.0505,
+    "discoverymethod": "Transit",
+    "disc_year": 2025,
+    "st_teff": 6190.0,
+    "st_rad": 1.346,
+    "st_mass": 1.088,
+    "st_spectype": "",
+    "dist_ly": 1851.52,
+    "x_ly": -1168.11,
+    "y_ly": -1150.54,
+    "z_ly": -860.16,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1851.52,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -358.1449,
+        "y_parsecs": -352.7581,
+        "z_parsecs": -263.7275,
+        "x_light_years": -1168.1112,
+        "y_light_years": -1150.5419,
+        "z_light_years": -860.1631,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 224.565855,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -27.68255,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 567.678,
+          "light_years": 1851.5159,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "WASP-184 b",
+    "hostname": "WASP-184",
+    "sy_dist": 663.231,
+    "ra": 209.51701,
+    "dec": -30.348153,
+    "pl_rade": 14.90797,
+    "pl_bmasse": 181.1631,
+    "pl_eqt": 1480.0,
+    "pl_orbper": 5.1817,
+    "pl_orbsmax": 0.0627,
+    "discoverymethod": "Transit",
+    "disc_year": 2019,
+    "st_teff": 6000.0,
+    "st_rad": 1.65,
+    "st_mass": 1.23,
+    "st_spectype": "G0 V",
+    "dist_ly": 2163.17,
+    "x_ly": -1624.46,
+    "y_ly": -919.71,
+    "z_ly": -1092.95,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2163.17,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -498.0638,
+        "y_parsecs": -281.9861,
+        "z_parsecs": -335.0995,
+        "x_light_years": -1624.4648,
+        "y_light_years": -919.7147,
+        "z_light_years": -1092.9471,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 209.51701,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -30.348153,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 663.231,
+          "light_years": 2163.1677,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-99 c",
+    "hostname": "K2-99",
+    "sy_dist": 519.229,
+    "ra": 208.773762,
+    "dec": -5.442494,
+    "pl_rade": null,
+    "pl_bmasse": 2669.758619,
+    "pl_eqt": 390.0,
+    "pl_orbper": 522.2,
+    "pl_orbsmax": 1.43,
+    "discoverymethod": "Radial Velocity",
+    "disc_year": 2022,
+    "st_teff": 6069.0,
+    "st_rad": 2.55,
+    "st_mass": 1.44,
+    "st_spectype": "",
+    "dist_ly": 1693.5,
+    "x_ly": -1477.7,
+    "y_ly": -811.49,
+    "z_ly": -160.62,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 70,
+      "habitability_percent": 34,
+      "distance_to_earth_ly": 1693.5,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -453.0666,
+        "y_parsecs": -248.8054,
+        "z_parsecs": -49.2471,
+        "x_light_years": -1477.704,
+        "y_light_years": -811.4936,
+        "z_light_years": -160.6225,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 208.773762,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -5.442494,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 519.229,
+          "light_years": 1693.4965,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "PSR B1257+12 d",
+    "hostname": "PSR B1257+12",
+    "sy_dist": 600.0,
+    "ra": 195.014903,
+    "dec": 12.682353,
+    "pl_rade": null,
+    "pl_bmasse": 3.9,
+    "pl_eqt": null,
+    "pl_orbper": 98.2114,
+    "pl_orbsmax": 0.46,
+    "discoverymethod": "Pulsar Timing",
+    "disc_year": 1992,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 1.4,
+    "st_spectype": "",
+    "dist_ly": 1956.94,
+    "x_ly": -1844.01,
+    "y_ly": -494.61,
+    "z_ly": 429.64,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 1956.94,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -565.3762,
+        "y_parsecs": -151.6497,
+        "z_parsecs": 131.7274,
+        "x_light_years": -1844.0084,
+        "y_light_years": -494.6147,
+        "z_light_years": 429.6369,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 195.014903,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 12.682353,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 600.0,
+          "light_years": 1956.936,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "EPIC 212624936 b",
+    "hostname": "EPIC 212624936",
+    "sy_dist": 561.929,
+    "ra": 210.637617,
+    "dec": -10.023685,
+    "pl_rade": 1.2,
+    "pl_bmasse": null,
+    "pl_eqt": null,
+    "pl_orbper": 0.578657,
+    "pl_orbsmax": null,
+    "discoverymethod": "Transit",
+    "disc_year": 2021,
+    "st_teff": 5765.0,
+    "st_rad": 0.93,
+    "st_mass": null,
+    "st_spectype": "",
+    "dist_ly": 1832.77,
+    "x_ly": -1552.85,
+    "y_ly": -919.73,
+    "z_ly": -319.0,
+    "characteristics": {
+      "radius_position": "Earth-like",
+      "atmosphere_type": "CO2-N2 (Rocky)",
+      "principal_material": "Rocky (estimated)",
+      "toxicity_percent": 40,
+      "habitability_percent": 58,
+      "distance_to_earth_ly": 1832.77,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown",
+      "coordinates_3d": {
+        "x_parsecs": -476.108,
+        "y_parsecs": -281.9916,
+        "z_parsecs": -97.8067,
+        "x_light_years": -1552.8548,
+        "y_light_years": -919.7324,
+        "z_light_years": -319.0024,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 210.637617,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -10.023685,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 561.929,
+          "light_years": 1832.7651,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "PSR B1257+12 c",
+    "hostname": "PSR B1257+12",
+    "sy_dist": 600.0,
+    "ra": 195.014903,
+    "dec": 12.682353,
+    "pl_rade": null,
+    "pl_bmasse": 4.3,
+    "pl_eqt": null,
+    "pl_orbper": 66.5419,
+    "pl_orbsmax": 0.36,
+    "discoverymethod": "Pulsar Timing",
+    "disc_year": 1992,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 1.4,
+    "st_spectype": "",
+    "dist_ly": 1956.94,
+    "x_ly": -1844.01,
+    "y_ly": -494.61,
+    "z_ly": 429.64,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 1956.94,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -565.3762,
+        "y_parsecs": -151.6497,
+        "z_parsecs": 131.7274,
+        "x_light_years": -1844.0084,
+        "y_light_years": -494.6147,
+        "z_light_years": 429.6369,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 195.014903,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 12.682353,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 600.0,
+          "light_years": 1956.936,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "OGLE-2018-BLG-0532L b",
+    "hostname": "OGLE-2018-BLG-0532L",
+    "sy_dist": 773.0,
+    "ra": 269.983417,
+    "dec": -28.99775,
+    "pl_rade": null,
+    "pl_bmasse": 6.228,
+    "pl_eqt": null,
+    "pl_orbper": null,
+    "pl_orbsmax": 1.064,
+    "discoverymethod": "Microlensing",
+    "disc_year": 2020,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 0.195,
+    "st_spectype": "",
+    "dist_ly": 2521.19,
+    "x_ly": -0.64,
+    "y_ly": -2205.13,
+    "z_ly": -1222.21,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 2521.19,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -0.1957,
+        "y_parsecs": -676.0957,
+        "z_parsecs": -374.7313,
+        "x_light_years": -0.6382,
+        "y_light_years": -2205.1268,
+        "z_light_years": -1222.2086,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 269.983417,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -28.99775,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 773.0,
+          "light_years": 2521.1859,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "POTS-1 b",
+    "hostname": "POTS-1",
+    "sy_dist": 747.959,
+    "ra": 203.608726,
+    "dec": -66.581164,
+    "pl_rade": 10.548,
+    "pl_bmasse": 734.16,
+    "pl_eqt": null,
+    "pl_orbper": 3.16063,
+    "pl_orbsmax": 0.03734,
+    "discoverymethod": "Transit",
+    "disc_year": 2013,
+    "st_teff": 4400.0,
+    "st_rad": 0.588,
+    "st_mass": 0.695,
+    "st_spectype": "K5 V",
+    "dist_ly": 2439.51,
+    "x_ly": -888.43,
+    "y_ly": -388.31,
+    "z_ly": -2238.56,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Gas Giant)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 80,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2439.51,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -272.3945,
+        "y_parsecs": -119.0556,
+        "z_parsecs": -686.3451,
+        "x_light_years": -888.431,
+        "y_light_years": -388.3071,
+        "z_light_years": -2238.5559,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 203.608726,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -66.581164,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 747.959,
+          "light_years": 2439.5132,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-258 b",
+    "hostname": "K2-258",
+    "sy_dist": 661.873,
+    "ra": 187.631403,
+    "dec": -1.160917,
+    "pl_rade": 3.0,
+    "pl_bmasse": null,
+    "pl_eqt": 831.0,
+    "pl_orbper": 19.0921,
+    "pl_orbsmax": 0.149,
+    "discoverymethod": "Transit",
+    "disc_year": 2018,
+    "st_teff": 6351.0,
+    "st_rad": 1.31,
+    "st_mass": 1.21,
+    "st_spectype": "",
+    "dist_ly": 2158.74,
+    "x_ly": -2139.18,
+    "y_ly": -286.62,
+    "z_ly": -43.74,
+    "characteristics": {
+      "radius_position": "Mini-Neptune",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Mini)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2158.74,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -655.8761,
+        "y_parsecs": -87.8785,
+        "z_parsecs": -13.4098,
+        "x_light_years": -2139.1792,
+        "y_light_years": -286.6209,
+        "z_light_years": -43.737,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 187.631403,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -1.160917,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 661.873,
+          "light_years": 2158.7385,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-99 b",
+    "hostname": "K2-99",
+    "sy_dist": 519.229,
+    "ra": 208.773762,
+    "dec": -5.442494,
+    "pl_rade": 11.88152,
+    "pl_bmasse": 276.510714,
+    "pl_eqt": 1184.0,
+    "pl_orbper": 18.24783,
+    "pl_orbsmax": 0.153,
+    "discoverymethod": "Transit",
+    "disc_year": 2016,
+    "st_teff": 6069.0,
+    "st_rad": 2.55,
+    "st_mass": 1.44,
+    "st_spectype": "",
+    "dist_ly": 1693.5,
+    "x_ly": -1477.7,
+    "y_ly": -811.49,
+    "z_ly": -160.62,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1693.5,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -453.0666,
+        "y_parsecs": -248.8054,
+        "z_parsecs": -49.2471,
+        "x_light_years": -1477.704,
+        "y_light_years": -811.4936,
+        "z_light_years": -160.6225,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 208.773762,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -5.442494,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 519.229,
+          "light_years": 1693.4965,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-378 b",
+    "hostname": "K2-378",
+    "sy_dist": 687.973,
+    "ra": 205.159657,
+    "dec": -11.117233,
+    "pl_rade": 2.88,
+    "pl_bmasse": null,
+    "pl_eqt": null,
+    "pl_orbper": 2.060438,
+    "pl_orbsmax": null,
+    "discoverymethod": "Transit",
+    "disc_year": 2022,
+    "st_teff": 4823.0,
+    "st_rad": 0.732,
+    "st_mass": 0.923,
+    "st_spectype": "",
+    "dist_ly": 2243.87,
+    "x_ly": -1992.87,
+    "y_ly": -936.06,
+    "z_ly": -432.66,
+    "characteristics": {
+      "radius_position": "Mini-Neptune",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Mini)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 80,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2243.87,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown",
+      "coordinates_3d": {
+        "x_parsecs": -611.0175,
+        "y_parsecs": -286.9977,
+        "z_parsecs": -132.653,
+        "x_light_years": -1992.8702,
+        "y_light_years": -936.0602,
+        "z_light_years": -432.6556,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 205.159657,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -11.117233,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 687.973,
+          "light_years": 2243.8652,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "EPIC 201427007 b",
+    "hostname": "EPIC 201427007",
+    "sy_dist": 706.391,
+    "ra": 184.602132,
+    "dec": -0.551289,
+    "pl_rade": 1.5,
+    "pl_bmasse": null,
+    "pl_eqt": null,
+    "pl_orbper": 0.72091,
+    "pl_orbsmax": null,
+    "discoverymethod": "Transit",
+    "disc_year": 2021,
+    "st_teff": 5633.0,
+    "st_rad": 0.94,
+    "st_mass": null,
+    "st_spectype": "",
+    "dist_ly": 2303.94,
+    "x_ly": -2296.4,
+    "y_ly": -184.85,
+    "z_ly": -22.17,
+    "characteristics": {
+      "radius_position": "Super-Earth",
+      "atmosphere_type": "CO2-N2 (Rocky)",
+      "principal_material": "Rocky/Ice (estimated)",
+      "toxicity_percent": 40,
+      "habitability_percent": 43,
+      "distance_to_earth_ly": 2303.94,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown",
+      "coordinates_3d": {
+        "x_parsecs": -704.0809,
+        "y_parsecs": -56.6754,
+        "z_parsecs": -6.7967,
+        "x_light_years": -2296.4022,
+        "y_light_years": -184.8501,
+        "z_light_years": -22.1677,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 184.602132,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -0.551289,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 706.391,
+          "light_years": 2303.9366,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-246 b",
+    "hostname": "K2-246",
+    "sy_dist": 703.616,
+    "ra": 181.629612,
+    "dec": -1.1606,
+    "pl_rade": 3.49,
+    "pl_bmasse": null,
+    "pl_eqt": 977.0,
+    "pl_orbper": 5.76918,
+    "pl_orbsmax": 0.0602,
+    "discoverymethod": "Transit",
+    "disc_year": 2018,
+    "st_teff": 5610.0,
+    "st_rad": 0.94,
+    "st_mass": 0.87,
+    "st_spectype": "",
+    "dist_ly": 2294.89,
+    "x_ly": -2293.49,
+    "y_ly": -65.25,
+    "z_ly": -46.48,
+    "characteristics": {
+      "radius_position": "Mini-Neptune",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Mini)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2294.89,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -703.1871,
+        "y_parsecs": -20.0055,
+        "z_parsecs": -14.2517,
+        "x_light_years": -2293.487,
+        "y_light_years": -65.2492,
+        "z_light_years": -46.4827,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 181.629612,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -1.1606,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 703.616,
+          "light_years": 2294.8858,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "OGLE-2017-BLG-1434L b",
+    "hostname": "OGLE-2017-BLG-1434L",
+    "sy_dist": 860.0,
+    "ra": 268.280467,
+    "dec": -30.245658,
+    "pl_rade": null,
+    "pl_bmasse": 4.43,
+    "pl_eqt": null,
+    "pl_orbper": null,
+    "pl_orbsmax": 1.18,
+    "discoverymethod": "Microlensing",
+    "disc_year": 2018,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 0.234,
+    "st_spectype": "",
+    "dist_ly": 2804.94,
+    "x_ly": -72.71,
+    "y_ly": -2422.02,
+    "z_ly": -1412.87,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 2804.94,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -22.2931,
+        "y_parsecs": -742.5968,
+        "z_parsecs": -433.1893,
+        "x_light_years": -72.7104,
+        "y_light_years": -2422.0241,
+        "z_light_years": -1412.873,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 268.280467,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -30.245658,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 860.0,
+          "light_years": 2804.9416,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-249 b",
+    "hostname": "K2-249",
+    "sy_dist": 521.716,
+    "ra": 183.366734,
+    "dec": -8.995231,
+    "pl_rade": 2.79,
+    "pl_bmasse": null,
+    "pl_eqt": 1061.0,
+    "pl_orbper": 12.409,
+    "pl_orbsmax": 0.1151,
+    "discoverymethod": "Transit",
+    "disc_year": 2018,
+    "st_teff": 6504.0,
+    "st_rad": 1.57,
+    "st_mass": 1.32,
+    "st_spectype": "",
+    "dist_ly": 1701.61,
+    "x_ly": -1677.78,
+    "y_ly": -98.7,
+    "z_ly": -266.05,
+    "characteristics": {
+      "radius_position": "Mini-Neptune",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Mini)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1701.61,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -514.4102,
+        "y_parsecs": -30.2619,
+        "z_parsecs": -81.5715,
+        "x_light_years": -1677.7799,
+        "y_light_years": -98.701,
+        "z_light_years": -266.0503,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 183.366734,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -8.995231,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 521.716,
+          "light_years": 1701.608,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "MOA-2010-BLG-328L b",
+    "hostname": "MOA-2010-BLG-328L",
+    "sy_dist": 810.0,
+    "ra": 269.496333,
+    "dec": -30.715175,
+    "pl_rade": null,
+    "pl_bmasse": 9.2,
+    "pl_eqt": null,
+    "pl_orbper": null,
+    "pl_orbsmax": 0.92,
+    "discoverymethod": "Microlensing",
+    "disc_year": 2013,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 0.11,
+    "st_spectype": "",
+    "dist_ly": 2641.86,
+    "x_ly": -19.97,
+    "y_ly": -2271.17,
+    "z_ly": -1349.39,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 2641.86,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -6.1215,
+        "y_parsecs": -696.3439,
+        "z_parsecs": -413.7242,
+        "x_light_years": -19.9655,
+        "y_light_years": -2271.1674,
+        "z_light_years": -1349.3863,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 269.496333,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -30.715175,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 810.0,
+          "light_years": 2641.8636,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-194 b",
+    "hostname": "K2-194",
+    "sy_dist": 629.51,
+    "ra": 204.608976,
+    "dec": -8.927161,
+    "pl_rade": 3.642299,
+    "pl_bmasse": null,
+    "pl_eqt": null,
+    "pl_orbper": 39.721386,
+    "pl_orbsmax": null,
+    "discoverymethod": "Transit",
+    "disc_year": 2018,
+    "st_teff": 5979.0,
+    "st_rad": 1.281115,
+    "st_mass": 1.110086,
+    "st_spectype": "",
+    "dist_ly": 2053.18,
+    "x_ly": -1844.08,
+    "y_ly": -844.64,
+    "z_ly": -318.61,
+    "characteristics": {
+      "radius_position": "Mini-Neptune",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Mini)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 80,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2053.18,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown",
+      "coordinates_3d": {
+        "x_parsecs": -565.3992,
+        "y_parsecs": -258.9671,
+        "z_parsecs": -97.6865,
+        "x_light_years": -1844.0833,
+        "y_light_years": -844.6367,
+        "z_light_years": -318.6105,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 204.608976,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -8.927161,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 629.51,
+          "light_years": 2053.1846,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "NY Vir b",
+    "hostname": "NY Vir",
+    "sy_dist": 544.024,
+    "ra": 204.700585,
+    "dec": -2.030387,
+    "pl_rade": null,
+    "pl_bmasse": 730.978,
+    "pl_eqt": null,
+    "pl_orbper": 2900.0,
+    "pl_orbsmax": 3.3,
+    "discoverymethod": "Eclipse Timing Variations",
+    "disc_year": 2011,
+    "st_teff": 32780.0,
+    "st_rad": 0.151,
+    "st_mass": 0.459,
+    "st_spectype": "",
+    "dist_ly": 1774.37,
+    "x_ly": -1611.01,
+    "y_ly": -741.0,
+    "z_ly": -62.86,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 1774.37,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Temperate Zone",
+      "coordinates_3d": {
+        "x_parsecs": -493.9376,
+        "y_parsecs": -227.192,
+        "z_parsecs": -19.2745,
+        "x_light_years": -1611.0072,
+        "y_light_years": -741.0005,
+        "z_light_years": -62.865,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 204.700585,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -2.030387,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 544.024,
+          "light_years": 1774.3669,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "WASP-192 b",
+    "hostname": "WASP-192",
+    "sy_dist": 508.885,
+    "ra": 223.658719,
+    "dec": -38.744547,
+    "pl_rade": 13.78707,
+    "pl_bmasse": 731.009,
+    "pl_eqt": 1620.0,
+    "pl_orbper": 2.878677,
+    "pl_orbsmax": 0.0408,
+    "discoverymethod": "Transit",
+    "disc_year": 2019,
+    "st_teff": 5910.0,
+    "st_rad": 1.32,
+    "st_mass": 1.09,
+    "st_spectype": "G0 V",
+    "dist_ly": 1659.76,
+    "x_ly": -936.54,
+    "y_ly": -893.69,
+    "z_ly": -1038.76,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1659.76,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -287.1445,
+        "y_parsecs": -274.0057,
+        "z_parsecs": -318.4853,
+        "x_light_years": -936.5389,
+        "y_light_years": -893.686,
+        "z_light_years": -1038.7589,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 223.658719,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -38.744547,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 508.885,
+          "light_years": 1659.759,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "HATS-56 b",
+    "hostname": "HATS-56",
+    "sy_dist": 564.409,
+    "ra": 180.165072,
+    "dec": -45.799456,
+    "pl_rade": 18.920792,
+    "pl_bmasse": 191.33366,
+    "pl_eqt": 1902.0,
+    "pl_orbper": 4.324799,
+    "pl_orbsmax": 0.06043,
+    "discoverymethod": "Transit",
+    "disc_year": 2019,
+    "st_teff": 6536.0,
+    "st_rad": 2.201,
+    "st_mass": 1.573,
+    "st_spectype": "",
+    "dist_ly": 1840.85,
+    "x_ly": -1283.39,
+    "y_ly": -3.7,
+    "z_ly": -1319.72,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1840.85,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -393.4885,
+        "y_parsecs": -1.1337,
+        "z_parsecs": -404.6271,
+        "x_light_years": -1283.3862,
+        "y_light_years": -3.6975,
+        "z_light_years": -1319.7154,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 180.165072,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -45.799456,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 564.409,
+          "light_years": 1840.8538,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "TOI-3976 A b",
+    "hostname": "TOI-3976 A",
+    "sy_dist": 516.087,
+    "ra": 224.356008,
+    "dec": 44.274322,
+    "pl_rade": 12.273834,
+    "pl_bmasse": 55.619971,
+    "pl_eqt": 1295.0,
+    "pl_orbper": 6.607662,
+    "pl_orbsmax": 0.0743,
+    "discoverymethod": "Transit",
+    "disc_year": 2023,
+    "st_teff": 5975.0,
+    "st_rad": 1.501,
+    "st_mass": 1.254,
+    "st_spectype": "",
+    "dist_ly": 1683.25,
+    "x_ly": -861.74,
+    "y_ly": -842.58,
+    "z_ly": 1175.07,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1683.25,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -264.2112,
+        "y_parsecs": -258.3377,
+        "z_parsecs": 360.2775,
+        "x_light_years": -861.7408,
+        "y_light_years": -842.5838,
+        "z_light_years": 1175.0666,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 224.356008,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 44.274322,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 516.087,
+          "light_years": 1683.2487,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "TOI-3464 b",
+    "hostname": "TOI-3464",
+    "sy_dist": 597.774,
+    "ra": 234.483036,
+    "dec": -44.789977,
+    "pl_rade": 13.764628,
+    "pl_bmasse": 397.285509,
+    "pl_eqt": 1693.0,
+    "pl_orbper": 3.651557,
+    "pl_orbsmax": 0.0515,
+    "discoverymethod": "Transit",
+    "disc_year": 2025,
+    "st_teff": 6370.0,
+    "st_rad": 1.56,
+    "st_mass": 1.363,
+    "st_spectype": "",
+    "dist_ly": 1949.68,
+    "x_ly": -803.84,
+    "y_ly": -1126.23,
+    "z_ly": -1373.57,
+    "characteristics": {
+      "radius_position": "Jupiter-like",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1949.68,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -246.4577,
+        "y_parsecs": -345.3047,
+        "z_parsecs": -421.1378,
+        "x_light_years": -803.8366,
+        "y_light_years": -1126.2319,
+        "z_light_years": -1373.5662,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 234.483036,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -44.789977,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 597.774,
+          "light_years": 1949.6758,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-351 b",
+    "hostname": "K2-351",
+    "sy_dist": 694.734,
+    "ra": 206.652241,
+    "dec": -11.804959,
+    "pl_rade": 2.54,
+    "pl_bmasse": null,
+    "pl_eqt": 934.0,
+    "pl_orbper": 7.806164,
+    "pl_orbsmax": null,
+    "discoverymethod": "Transit",
+    "disc_year": 2021,
+    "st_teff": 5769.0,
+    "st_rad": 1.05,
+    "st_mass": 1.02,
+    "st_spectype": "",
+    "dist_ly": 2265.92,
+    "x_ly": -1982.32,
+    "y_ly": -994.93,
+    "z_ly": -463.56,
+    "characteristics": {
+      "radius_position": "Mini-Neptune",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Mini)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2265.92,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown",
+      "coordinates_3d": {
+        "x_parsecs": -607.7829,
+        "y_parsecs": -305.0485,
+        "z_parsecs": -142.1292,
+        "x_light_years": -1982.3204,
+        "y_light_years": -994.9338,
+        "z_light_years": -463.563,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 206.652241,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -11.804959,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 694.734,
+          "light_years": 2265.9166,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "BD+42 2315 b",
+    "hostname": "BD+42 2315",
+    "sy_dist": 610.715,
+    "ra": 187.58876,
+    "dec": 41.269567,
+    "pl_rade": null,
+    "pl_bmasse": 174.805624,
+    "pl_eqt": null,
+    "pl_orbper": 123.05,
+    "pl_orbsmax": 0.54,
+    "discoverymethod": "Radial Velocity",
+    "disc_year": 2023,
+    "st_teff": 4500.0,
+    "st_rad": 17.85,
+    "st_mass": 1.38,
+    "st_spectype": "",
+    "dist_ly": 1991.88,
+    "x_ly": -1484.02,
+    "y_ly": -197.71,
+    "z_ly": 1313.85,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 1991.88,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -455.0019,
+        "y_parsecs": -60.6194,
+        "z_parsecs": 402.8292,
+        "x_light_years": -1484.0161,
+        "y_light_years": -197.7137,
+        "z_light_years": 1313.8515,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 187.58876,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 41.269567,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 610.715,
+          "light_years": 1991.8836,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-52 b",
+    "hostname": "K2-52",
+    "sy_dist": 1038.41,
+    "ra": 246.611416,
+    "dec": -24.969946,
+    "pl_rade": 18.0,
+    "pl_bmasse": null,
+    "pl_eqt": 2004.0,
+    "pl_orbper": 3.535055,
+    "pl_orbsmax": 0.054,
+    "discoverymethod": "Transit",
+    "disc_year": 2016,
+    "st_teff": 7147.0,
+    "st_rad": 2.192,
+    "st_mass": 1.691,
+    "st_spectype": "",
+    "dist_ly": 3386.84,
+    "x_ly": -1218.79,
+    "y_ly": -2817.99,
+    "z_ly": -1429.73,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 3386.84,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -373.6827,
+        "y_parsecs": -864.002,
+        "z_parsecs": -438.3573,
+        "x_light_years": -1218.7885,
+        "y_light_years": -2817.9943,
+        "z_light_years": -1429.7287,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 246.611416,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -24.969946,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 1038.41,
+          "light_years": 3386.8365,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "NGTS-32 b",
+    "hostname": "NGTS-32",
+    "sy_dist": 837.457,
+    "ra": 223.857623,
+    "dec": -18.432319,
+    "pl_rade": 15.916753,
+    "pl_bmasse": 181.162192,
+    "pl_eqt": 1750.0,
+    "pl_orbper": 3.31211,
+    "pl_orbsmax": 0.044,
+    "discoverymethod": "Transit",
+    "disc_year": 2025,
+    "st_teff": 5680.0,
+    "st_rad": 1.85,
+    "st_mass": 1.07,
+    "st_spectype": "",
+    "dist_ly": 2731.42,
+    "x_ly": -1868.48,
+    "y_ly": -1795.42,
+    "z_ly": -863.63,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2731.42,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -572.8806,
+        "y_parsecs": -550.4798,
+        "z_parsecs": -264.7907,
+        "x_light_years": -1868.4843,
+        "y_light_years": -1795.4228,
+        "z_light_years": -863.6307,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 223.857623,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -18.432319,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 837.457,
+          "light_years": 2731.4163,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "EPIC 212624936 c",
+    "hostname": "EPIC 212624936",
+    "sy_dist": 561.929,
+    "ra": 210.637617,
+    "dec": -10.023685,
+    "pl_rade": 2.3,
+    "pl_bmasse": null,
+    "pl_eqt": null,
+    "pl_orbper": 11.811437,
+    "pl_orbsmax": null,
+    "discoverymethod": "Transit",
+    "disc_year": 2021,
+    "st_teff": 5765.0,
+    "st_rad": 0.93,
+    "st_mass": null,
+    "st_spectype": "",
+    "dist_ly": 1832.77,
+    "x_ly": -1552.85,
+    "y_ly": -919.73,
+    "z_ly": -319.0,
+    "characteristics": {
+      "radius_position": "Mini-Neptune",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Mini)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 80,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1832.77,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown",
+      "coordinates_3d": {
+        "x_parsecs": -476.108,
+        "y_parsecs": -281.9916,
+        "z_parsecs": -97.8067,
+        "x_light_years": -1552.8548,
+        "y_light_years": -919.7324,
+        "z_light_years": -319.0024,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 210.637617,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -10.023685,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 561.929,
+          "light_years": 1832.7651,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "OGLE-2006-BLG-109L c",
+    "hostname": "OGLE-2006-BLG-109L",
+    "sy_dist": 1510.0,
+    "ra": 268.143792,
+    "dec": -30.087778,
+    "pl_rade": null,
+    "pl_bmasse": 86.0,
+    "pl_eqt": null,
+    "pl_orbper": 4927.5,
+    "pl_orbsmax": 4.5,
+    "discoverymethod": "Microlensing",
+    "disc_year": 2008,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 0.51,
+    "st_spectype": "",
+    "dist_ly": 4924.96,
+    "x_ly": -138.03,
+    "y_ly": -4259.12,
+    "z_ly": -2469.01,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 4924.96,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Temperate Zone",
+      "coordinates_3d": {
+        "x_parsecs": -42.3205,
+        "y_parsecs": -1305.8546,
+        "z_parsecs": -757.0025,
+        "x_light_years": -138.0309,
+        "y_light_years": -4259.123,
+        "z_light_years": -2469.0092,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 268.143792,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -30.087778,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 1510.0,
+          "light_years": 4924.9556,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "OGLE-2013-BLG-0341L B b",
+    "hostname": "OGLE-2013-BLG-0341L B",
+    "sy_dist": 1161.0,
+    "ra": 268.031208,
+    "dec": -29.846111,
+    "pl_rade": null,
+    "pl_bmasse": 2.32,
+    "pl_eqt": null,
+    "pl_orbper": null,
+    "pl_orbsmax": 0.883,
+    "discoverymethod": "Microlensing",
+    "disc_year": 2014,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 0.1452,
+    "st_spectype": "",
+    "dist_ly": 3786.67,
+    "x_ly": -112.84,
+    "y_ly": -3282.49,
+    "z_ly": -1884.52,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 3786.67,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -34.596,
+        "y_parsecs": -1006.4166,
+        "z_parsecs": -577.7974,
+        "x_light_years": -112.8369,
+        "y_light_years": -3282.488,
+        "z_light_years": -1884.5208,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 268.031208,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -29.846111,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 1161.0,
+          "light_years": 3786.6712,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "PSR B1257+12 b",
+    "hostname": "PSR B1257+12",
+    "sy_dist": 600.0,
+    "ra": 195.014903,
+    "dec": 12.682353,
+    "pl_rade": null,
+    "pl_bmasse": 0.02,
+    "pl_eqt": null,
+    "pl_orbper": 25.262,
+    "pl_orbsmax": 0.19,
+    "discoverymethod": "Pulsar Timing",
+    "disc_year": 1994,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 1.4,
+    "st_spectype": "",
+    "dist_ly": 1956.94,
+    "x_ly": -1844.01,
+    "y_ly": -494.61,
+    "z_ly": 429.64,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 1956.94,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Habitable Zone",
+      "coordinates_3d": {
+        "x_parsecs": -565.3762,
+        "y_parsecs": -151.6497,
+        "z_parsecs": 131.7274,
+        "x_light_years": -1844.0084,
+        "y_light_years": -494.6147,
+        "z_light_years": 429.6369,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 195.014903,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": 12.682353,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 600.0,
+          "light_years": 1956.936,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "OGLE-TR-10 b",
+    "hostname": "OGLE-TR-10",
+    "sy_dist": 1344.97,
+    "ra": 267.867748,
+    "dec": -29.876476,
+    "pl_rade": 19.27948,
+    "pl_bmasse": 216.1244,
+    "pl_eqt": 1702.0,
+    "pl_orbper": 3.101278,
+    "pl_orbsmax": 0.04516,
+    "discoverymethod": "Transit",
+    "disc_year": 2004,
+    "st_teff": 6075.0,
+    "st_rad": 1.52,
+    "st_mass": 1.277,
+    "st_spectype": "",
+    "dist_ly": 4386.7,
+    "x_ly": -141.52,
+    "y_ly": -3801.08,
+    "z_ly": -2185.15,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 4386.7,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -43.3908,
+        "y_parsecs": -1165.4178,
+        "z_parsecs": -669.9723,
+        "x_light_years": -141.5218,
+        "y_light_years": -3801.0801,
+        "z_light_years": -2185.1548,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 267.867748,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -29.876476,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 1344.97,
+          "light_years": 4386.7004,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-278 b",
+    "hostname": "K2-278",
+    "sy_dist": 786.439,
+    "ra": 203.301865,
+    "dec": -14.504106,
+    "pl_rade": 2.98,
+    "pl_bmasse": null,
+    "pl_eqt": 1711.0,
+    "pl_orbper": 3.334966,
+    "pl_orbsmax": 0.0488,
+    "discoverymethod": "Transit",
+    "disc_year": 2018,
+    "st_teff": 6747.0,
+    "st_rad": 1.61,
+    "st_mass": 1.4,
+    "st_spectype": "",
+    "dist_ly": 2565.02,
+    "x_ly": -2280.72,
+    "y_ly": -982.32,
+    "z_ly": -642.41,
+    "characteristics": {
+      "radius_position": "Mini-Neptune",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Mini)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2565.02,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -699.2723,
+        "y_parsecs": -301.1812,
+        "z_parsecs": -196.9632,
+        "x_light_years": -2280.7184,
+        "y_light_years": -982.3206,
+        "z_light_years": -642.4072,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 203.301865,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -14.504106,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 786.439,
+          "light_years": 2565.018,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "NY Vir c",
+    "hostname": "NY Vir",
+    "sy_dist": 544.024,
+    "ra": 204.700585,
+    "dec": -2.030387,
+    "pl_rade": null,
+    "pl_bmasse": 1760.7782,
+    "pl_eqt": null,
+    "pl_orbper": 8799.0,
+    "pl_orbsmax": null,
+    "discoverymethod": "Eclipse Timing Variations",
+    "disc_year": 2019,
+    "st_teff": 32780.0,
+    "st_rad": 0.151,
+    "st_mass": 0.459,
+    "st_spectype": "",
+    "dist_ly": 1774.37,
+    "x_ly": -1611.01,
+    "y_ly": -741.0,
+    "z_ly": -62.86,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 1774.37,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown",
+      "coordinates_3d": {
+        "x_parsecs": -493.9376,
+        "y_parsecs": -227.192,
+        "z_parsecs": -19.2745,
+        "x_light_years": -1611.0072,
+        "y_light_years": -741.0005,
+        "z_light_years": -62.865,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 204.700585,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -2.030387,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 544.024,
+          "light_years": 1774.3669,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "Lupus-TR-3 b",
+    "hostname": "Lupus-TR-3",
+    "sy_dist": 773.409,
+    "ra": 232.57747,
+    "dec": -42.979946,
+    "pl_rade": 9.976,
+    "pl_bmasse": 257.431,
+    "pl_eqt": null,
+    "pl_orbper": 3.91405,
+    "pl_orbsmax": 0.0464,
+    "discoverymethod": "Transit",
+    "disc_year": 2007,
+    "st_teff": 5000.0,
+    "st_rad": 0.82,
+    "st_mass": 0.87,
+    "st_spectype": "",
+    "dist_ly": 2522.52,
+    "x_ly": -1121.46,
+    "y_ly": -1465.62,
+    "z_ly": -1719.71,
+    "characteristics": {
+      "radius_position": "Neptune-like",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Ice Giant)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 80,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2522.52,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -343.8422,
+        "y_parsecs": -449.3606,
+        "z_parsecs": -527.2657,
+        "x_light_years": -1121.4619,
+        "y_light_years": -1465.6166,
+        "z_light_years": -1719.7086,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 232.57747,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -42.979946,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 773.409,
+          "light_years": 2522.5199,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "OGLE-2006-BLG-109L b",
+    "hostname": "OGLE-2006-BLG-109L",
+    "sy_dist": 1490.0,
+    "ra": 268.143792,
+    "dec": -30.087778,
+    "pl_rade": null,
+    "pl_bmasse": 230.0,
+    "pl_eqt": 82.0,
+    "pl_orbper": null,
+    "pl_orbsmax": 2.3,
+    "discoverymethod": "Microlensing",
+    "disc_year": 2008,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 0.5,
+    "st_spectype": "",
+    "dist_ly": 4859.72,
+    "x_ly": -136.2,
+    "y_ly": -4202.71,
+    "z_ly": -2436.31,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 70,
+      "habitability_percent": 4,
+      "distance_to_earth_ly": 4859.72,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Temperate Zone",
+      "coordinates_3d": {
+        "x_parsecs": -41.76,
+        "y_parsecs": -1288.5585,
+        "z_parsecs": -746.976,
+        "x_light_years": -136.2026,
+        "y_light_years": -4202.7108,
+        "z_light_years": -2436.3071,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 268.143792,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -30.087778,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 1490.0,
+          "light_years": 4859.7244,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-161 b",
+    "hostname": "K2-161",
+    "sy_dist": 916.319,
+    "ra": 183.793849,
+    "dec": -3.495691,
+    "pl_rade": 6.117212,
+    "pl_bmasse": null,
+    "pl_eqt": null,
+    "pl_orbper": 9.283188,
+    "pl_orbsmax": null,
+    "discoverymethod": "Transit",
+    "disc_year": 2018,
+    "st_teff": 4972.0,
+    "st_rad": 2.568173,
+    "st_mass": 0.986876,
+    "st_spectype": "",
+    "dist_ly": 2988.63,
+    "x_ly": -2976.53,
+    "y_ly": -197.38,
+    "z_ly": -182.23,
+    "characteristics": {
+      "radius_position": "Neptune-like",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Ice Giant)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 80,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 2988.63,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown",
+      "coordinates_3d": {
+        "x_parsecs": -912.6098,
+        "y_parsecs": -60.5171,
+        "z_parsecs": -55.8712,
+        "x_light_years": -2976.5316,
+        "y_light_years": -197.3801,
+        "z_light_years": -182.2271,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 183.793849,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -3.495691,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 916.319,
+          "light_years": 2988.6294,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "NGTS-26 b",
+    "hostname": "NGTS-26",
+    "sy_dist": 1093.69,
+    "ra": 217.683296,
+    "dec": -31.732453,
+    "pl_rade": 14.885526,
+    "pl_bmasse": 92.805895,
+    "pl_eqt": 1331.0,
+    "pl_orbper": 4.519928,
+    "pl_orbsmax": 0.049,
+    "discoverymethod": "Transit",
+    "disc_year": 2024,
+    "st_teff": 5550.0,
+    "st_rad": 1.16,
+    "st_mass": 0.96,
+    "st_spectype": "",
+    "dist_ly": 3567.14,
+    "x_ly": -2401.03,
+    "y_ly": -1854.61,
+    "z_ly": -1876.15,
+    "characteristics": {
+      "radius_position": "Super-Jupiter",
+      "atmosphere_type": "Hydrogen-Helium (Hot Jupiter)",
+      "principal_material": "Gaseous (H/He)",
+      "toxicity_percent": 100,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 3567.14,
+      "satellites": {
+        "has_satellites": true,
+        "count": "Unknown (likely multiple)",
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -736.1603,
+        "y_parsecs": -568.6266,
+        "z_parsecs": -575.2301,
+        "x_light_years": -2401.031,
+        "y_light_years": -1854.6098,
+        "z_light_years": -1876.1473,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 217.683296,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -31.732453,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 1093.69,
+          "light_years": 3567.1356,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "IC 4651 9122 b",
+    "hostname": "IC 4651 9122",
+    "sy_dist": 859.324,
+    "ra": 261.208614,
+    "dec": -49.948932,
+    "pl_rade": null,
+    "pl_bmasse": 2002.329,
+    "pl_eqt": null,
+    "pl_orbper": 734.0,
+    "pl_orbsmax": 2.038,
+    "discoverymethod": "Radial Velocity",
+    "disc_year": 2018,
+    "st_teff": null,
+    "st_rad": null,
+    "st_mass": 2.1,
+    "st_spectype": "",
+    "dist_ly": 2802.74,
+    "x_ly": -275.64,
+    "y_ly": -1782.29,
+    "z_ly": -2145.41,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 2802.74,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Temperate Zone",
+      "coordinates_3d": {
+        "x_parsecs": -84.5113,
+        "y_parsecs": -546.4529,
+        "z_parsecs": -657.7878,
+        "x_light_years": -275.6385,
+        "y_light_years": -1782.289,
+        "z_light_years": -2145.4143,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 261.208614,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -49.948932,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 859.324,
+          "light_years": 2802.7368,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "K2-196 b",
+    "hostname": "K2-196",
+    "sy_dist": 584.877,
+    "ra": 200.456249,
+    "dec": -8.47171,
+    "pl_rade": 3.599705,
+    "pl_bmasse": null,
+    "pl_eqt": null,
+    "pl_orbper": 48.324222,
+    "pl_orbsmax": null,
+    "discoverymethod": "Transit",
+    "disc_year": 2018,
+    "st_teff": 6045.0,
+    "st_rad": 1.538801,
+    "st_mass": 1.162095,
+    "st_spectype": "",
+    "dist_ly": 1907.61,
+    "x_ly": -1767.81,
+    "y_ly": -659.42,
+    "z_ly": -281.03,
+    "characteristics": {
+      "radius_position": "Mini-Neptune",
+      "atmosphere_type": "Hydrogen-Helium-Methane (Mini)",
+      "principal_material": "Gas/Ice (H/He/CH4)",
+      "toxicity_percent": 80,
+      "habitability_percent": 0,
+      "distance_to_earth_ly": 1907.61,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown",
+      "coordinates_3d": {
+        "x_parsecs": -542.015,
+        "y_parsecs": -202.1795,
+        "z_parsecs": -86.1647,
+        "x_light_years": -1767.8143,
+        "y_light_years": -659.4205,
+        "z_light_years": -281.0313,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 200.456249,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -8.47171,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 584.877,
+          "light_years": 1907.6114,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  },
+  {
+    "pl_name": "PSR J1719-1438 b",
+    "hostname": "PSR J1719-1438",
+    "sy_dist": 1200.0,
+    "ra": 259.791971,
+    "dec": -14.6336,
+    "pl_rade": null,
+    "pl_bmasse": 382.8,
+    "pl_eqt": null,
+    "pl_orbper": 0.090706,
+    "pl_orbsmax": 0.0044,
+    "discoverymethod": "Pulsar Timing",
+    "disc_year": 2011,
+    "st_teff": 4500.0,
+    "st_rad": null,
+    "st_mass": 1.4,
+    "st_spectype": "",
+    "dist_ly": 3913.87,
+    "x_ly": -671.13,
+    "y_ly": -3726.97,
+    "z_ly": -988.79,
+    "characteristics": {
+      "radius_position": "Unknown",
+      "atmosphere_type": "Unknown",
+      "principal_material": "Unknown",
+      "toxicity_percent": 50,
+      "habitability_percent": 50,
+      "distance_to_earth_ly": 3913.87,
+      "satellites": {
+        "has_satellites": false,
+        "count": 0,
+        "type": "Estimated"
+      },
+      "orbit_type": "Unknown - Hot Zone",
+      "coordinates_3d": {
+        "x_parsecs": -205.7685,
+        "y_parsecs": -1142.6945,
+        "z_parsecs": -303.1642,
+        "x_light_years": -671.1264,
+        "y_light_years": -3726.9668,
+        "z_light_years": -988.7881,
+        "system": "Equatorial (Earth/Sun centered)",
+        "note": "Calculated from RA, Dec, and distance"
+      },
+      "icrs_coordinates": {
+        "right_ascension": {
+          "degrees": 259.791971,
+          "hours_format": null,
+          "unit": "degrees"
+        },
+        "declination": {
+          "degrees": -14.6336,
+          "dms_format": null,
+          "unit": "degrees"
+        },
+        "distance": {
+          "parsecs": 1200.0,
+          "light_years": 3913.872,
+          "unit": "parsecs/light-years"
+        },
+        "parallax": {
+          "value": null,
+          "unit": "milliarcseconds (mas)"
+        },
+        "proper_motion": {
+          "ra": null,
+          "dec": null,
+          "unit": "milliarcseconds/year (mas/yr)"
+        },
+        "epoch": "J2000.0",
+        "reference_frame": "ICRS (International Celestial Reference System)",
+        "note": "ICRS is the current standard celestial coordinate system"
+      }
+    }
+  }
+]

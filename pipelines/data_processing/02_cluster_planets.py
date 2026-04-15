@@ -8,15 +8,15 @@ import numpy as np
 import math
 from collections import defaultdict
 
-print("🌌 NASA Exoplanet Spatial Clustering Script")
+print("NASA Exoplanet Spatial Clustering Script")
 print("=" * 60)
 
 # Load the data
-print("\n📂 Loading nasa_exoplanets_frontend.json...")
-with open('nasa_exoplanets_frontend.json', 'r') as f:
+print("\nLoading nasa_exoplanets_frontend.json...")
+with open('nasa_data/nasa_exoplanets_frontend.json', 'r') as f:
     planets = json.load(f)
 
-print(f"✅ Loaded {len(planets)} planets")
+print(f"OK: Loaded {len(planets)} planets")
 
 # Separate planets with and without positions
 planets_with_position = []
@@ -122,7 +122,7 @@ def assign_cluster(planet):
     return f"{shell_name}_{sector_name}"
 
 # Cluster planets
-print("\n🗂️  Clustering planets by spatial location...")
+print("\nClustering planets by spatial location...")
 clusters = defaultdict(list)
 
 for planet in planets_with_position:
@@ -136,7 +136,7 @@ clusters['no_position'] = planets_without_position
 clusters = dict(sorted(clusters.items()))
 
 # Print statistics
-print(f"\n📊 Clustering Results:")
+print("\nClustering Results:")
 print(f"  Total clusters created: {len(clusters)}")
 print(f"\n  Cluster breakdown:")
 
@@ -158,10 +158,10 @@ import os
 clusters_dir = 'clusters'
 if not os.path.exists(clusters_dir):
     os.makedirs(clusters_dir)
-    print(f"\n📁 Created directory: {clusters_dir}/")
+    print(f"\nCreated directory: {clusters_dir}/")
 
 # Save each cluster
-print(f"\n💾 Saving cluster files...")
+print("\nSaving cluster files...")
 cluster_index = {}
 
 for cluster_name, cluster_planets in clusters.items():
@@ -182,10 +182,10 @@ for cluster_name, cluster_planets in clusters.items():
         "planet_names": [p.get('pl_name') or p.get('name', 'Unknown') for p in cluster_planets]
     }
     
-    print(f"  ✅ {filename:25s} - {len(cluster_planets):5d} planets ({file_size:.1f} MB)")
+    print(f"  OK: {filename:25s} - {len(cluster_planets):5d} planets ({file_size:.1f} MB)")
 
 # Create cluster index for quick lookups
-print(f"\n📇 Creating cluster index...")
+print("\nCreating cluster index...")
 index_data = {
     "total_planets": len(planets),
     "total_clusters": len(clusters),
@@ -209,7 +209,7 @@ index_path = os.path.join(clusters_dir, 'cluster_index.json')
 with open(index_path, 'w') as f:
     json.dump(index_data, f, indent=2)
 
-print(f"  ✅ cluster_index.json created")
+print("  OK: cluster_index.json created")
 
 # Create a README for the clusters
 readme_content = """# NASA Exoplanet Clusters
@@ -291,15 +291,15 @@ readme_path = os.path.join(clusters_dir, 'README.md')
 with open(readme_path, 'w') as f:
     f.write(readme_content)
 
-print(f"  ✅ README.md created")
+print("  OK: README.md created")
 
 # Print summary
 print("\n" + "=" * 60)
-print("✨ CLUSTERING COMPLETE!")
+print("CLUSTERING COMPLETE!")
 print("=" * 60)
-print(f"\n📁 Output directory: {clusters_dir}/")
-print(f"📊 Total files created: {len(clusters) + 2} (clusters + index + README)")
-print(f"\n🚀 Next steps:")
+print(f"\nOutput directory: {clusters_dir}/")
+print(f"Total files created: {len(clusters) + 2} (clusters + index + README)")
+print("\nNext steps:")
 print(f"   1. Check {clusters_dir}/ directory")
 print(f"   2. Review cluster_index.json")
 print(f"   3. Use the loader utility (I'll create next)")

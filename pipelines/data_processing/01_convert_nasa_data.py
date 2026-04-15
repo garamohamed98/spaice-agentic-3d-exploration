@@ -6,8 +6,8 @@ from io import StringIO
 from datetime import datetime
 
 # --- CONFIGURATION ---
-INPUT_FILE = 'nasa_data.csv'
-OUTPUT_FILE = 'nasa_exoplanets_frontend.json'
+INPUT_FILE = 'nasa_data/nasa_data.csv'
+OUTPUT_FILE = 'nasa_data/nasa_exoplanets_frontend.json'
 # Current approximate Julian Date (Jan 2026)
 CURRENT_JD = 2461072.0 
 
@@ -82,7 +82,7 @@ def clean_data_for_json(obj):
 
 # --- MAIN EXECUTION ---
 
-print(f"🔍 Looking for {INPUT_FILE}...")
+print(f"Looking for {INPUT_FILE}...")
 
 try:
     # 1. Read file to find the header (skipping comments)
@@ -93,8 +93,8 @@ try:
 
     # 2. Load into Pandas
     df = pd.read_csv(StringIO("".join(lines[header_idx:])))
-    print(f"✅ Loaded {INPUT_FILE}")
-    print(f"📊 Processing {len(df)} exoplanets...")
+    print(f"OK: Loaded {INPUT_FILE}")
+    print(f"Processing {len(df)} exoplanets...")
 
     # 3. Iterate and calculate orbits
     records = []
@@ -117,21 +117,21 @@ try:
         records.append(record)
 
     # 4. Clean and Save
-    print("🧹 Cleaning NaN values...")
+    print("Cleaning NaN values...")
     final_data = clean_data_for_json(records)
 
-    print(f"💾 Saving to {OUTPUT_FILE}...")
+    print(f"Saving to {OUTPUT_FILE}...")
     with open(OUTPUT_FILE, 'w') as f:
         json.dump(final_data, f, indent=2)
 
     file_size = len(json.dumps(final_data)) / (1024 * 1024)
-    print(f"\n✅ Success! Created {OUTPUT_FILE} ({file_size:.1f} MB)")
+    print(f"\nOK: Success! Created {OUTPUT_FILE} ({file_size:.1f} MB)")
     print(f"   - Total planets: {len(records)}")
     print(f"   - With 3D positions: {sum(1 for r in records if r['has_orbit'])}")
 
 except FileNotFoundError:
-    print(f"\n❌ ERROR: {INPUT_FILE} not found!")
-    print("\n📥 Please download NASA exoplanet data:")
+    print(f"\nERROR: {INPUT_FILE} not found!")
+    print("\nPlease download NASA exoplanet data:")
     print("   1. Go to: https://exoplanetarchive.ipac.caltech.edu/")
     print("   2. Click 'Planetary Systems'")
     print("   3. Select 'Download Table' > 'CSV Format'")
@@ -140,7 +140,7 @@ except FileNotFoundError:
     print("   wget -O nasa_data.csv 'https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=select+*+from+ps&format=csv'")
     exit(1)
 except Exception as e:
-    print(f"\n❌ ERROR: {e}")
+    print(f"\nERROR: {e}")
     import traceback
     traceback.print_exc()
     exit(1)

@@ -37,31 +37,31 @@ class PipelineOrchestrator:
         
         try:
             result = subprocess.run(
-                ['python3', script_path],
+                [sys.executable, script_path],
                 cwd=os.path.join(PROJECT_ROOT, '..'),
                 capture_output=True,
                 text=True
             )
             
             if result.returncode == 0:
-                self.log(f"✅ {step_name} completed successfully")
+                self.log(f"OK: {step_name} completed successfully")
                 if result.stdout:
                     print(result.stdout)
                 return True
             else:
-                self.log(f"❌ {step_name} failed")
+                self.log(f"ERROR: {step_name} failed")
                 if result.stderr:
                     print("Error output:")
                     print(result.stderr)
                 return False
                 
         except Exception as e:
-            self.log(f"❌ {step_name} failed with exception: {str(e)}")
+            self.log(f"ERROR: {step_name} failed with exception: {str(e)}")
             return False
     
     def run_full_pipeline(self):
         """Run the complete data pipeline from start to finish."""
-        self.log("🚀 Starting NASA Exoplanet Data Pipeline")
+        self.log("Starting NASA Exoplanet Data Pipeline")
         self.log(f"Working directory: {self.data_dir}")
         
         steps = [
@@ -93,23 +93,23 @@ class PipelineOrchestrator:
             if self.run_step(step['name'], step['script'], step['description']):
                 success_count += 1
             else:
-                self.log(f"⚠️  Pipeline stopped at {step['name']}")
+                self.log(f"WARNING: Pipeline stopped at {step['name']}")
                 break
         
         self.log(f"\n{'='*70}")
-        self.log(f"📊 Pipeline Summary")
+        self.log("Pipeline Summary")
         self.log(f"{'='*70}")
         self.log(f"Steps completed: {success_count}/{len(steps)}")
         
         if success_count == len(steps):
-            self.log("✅ Full pipeline completed successfully!")
-            self.log("\n📁 Output files:")
+            self.log("OK: Full pipeline completed successfully!")
+            self.log("\nOutput files:")
             self.log(f"   • nasa_data/nasa_exoplanets_frontend.json")
             self.log(f"   • nasa_data/clusters/*.json (17 cluster files)")
             self.log(f"   • nasa_data/clusters/cluster_index.json")
             return True
         else:
-            self.log("❌ Pipeline failed")
+            self.log("ERROR: Pipeline failed")
             return False
     
     def run_single_step(self, step_number):
@@ -138,7 +138,7 @@ class PipelineOrchestrator:
         }
         
         if step_number not in steps:
-            self.log(f"❌ Invalid step number: {step_number}")
+            self.log(f"ERROR: Invalid step number: {step_number}")
             self.log(f"Valid steps: 0, 1, 2, 3")
             return False
         
@@ -188,36 +188,36 @@ Examples:
 ║          NASA Exoplanet Data Processing Pipeline                    ║
 ╚══════════════════════════════════════════════════════════════════════╝
 
-📋 Pipeline Steps:
+Pipeline Steps:
 
-0️⃣  Download NASA Data (00_download_nasa_data.py)
+0  Download NASA Data (00_download_nasa_data.py)
    • Source: NASA Exoplanet Archive API
    • Outputs: nasa_data/nasa_data.csv
    • Purpose: Download latest exoplanet data from NASA
    • Duration: ~30-60 seconds
 
-1️⃣  Convert NASA Data (01_convert_nasa_data.py)
+1  Convert NASA Data (01_convert_nasa_data.py)
    • Reads: nasa_data/nasa_data.csv
    • Outputs: nasa_data/nasa_exoplanets_frontend.json
    • Purpose: Convert NASA CSV format to clean JSON
    • Duration: ~1-2 minutes
 
-2️⃣  Cluster Planets (02_cluster_planets.py)
+2  Cluster Planets (02_cluster_planets.py)
    • Reads: nasa_data/nasa_exoplanets_frontend.json
    • Outputs: nasa_data/clusters/*.json (17 files)
    • Purpose: Create spatial clusters for progressive loading
    • Duration: ~1-2 minutes
 
-3️⃣  Enrich Characteristics (03_enrich_characteristics.py)
+3  Enrich Characteristics (03_enrich_characteristics.py)
    • Reads: nasa_data/clusters/*.json
    • Outputs: Updated cluster files with enriched data
    • Purpose: Add planet characteristics and coordinate systems
    • Duration: ~1-2 minutes
 
-📊 Total Pipeline Time: ~4-7 minutes
-📁 Total Planets Processed: Latest from NASA
+Total Pipeline Time: ~4-7 minutes
+Total Planets Processed: Latest from NASA
 
-🎯 Output Features:
+Output Features:
    • Planet characteristics (habitability, toxicity, etc.)
    • Dual coordinate systems (Cartesian + ICRS)
    • Spatial clustering for performance

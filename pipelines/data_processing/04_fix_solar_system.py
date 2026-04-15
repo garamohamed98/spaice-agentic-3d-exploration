@@ -7,7 +7,7 @@ import json
 import os
 import math
 
-print("🪐 Fixing Solar System Data")
+print("Fixing Solar System Data")
 print("="*70)
 
 # Constants
@@ -159,10 +159,10 @@ def fix_solar_system():
     cluster_path = 'nasa_data/clusters/solar_system.json'
     
     if not os.path.exists(cluster_path):
-        print(f"❌ Error: {cluster_path} not found")
+        print(f"ERROR: {cluster_path} not found")
         return
     
-    print(f"\n📂 Loading {cluster_path}...")
+    print(f"\nLoading {cluster_path}...")
     with open(cluster_path, 'r') as f:
         planets = json.load(f)
     
@@ -216,14 +216,14 @@ def fix_solar_system():
             # Only update if coordinates_3d doesn't exist or is completely empty
             
             fixed_count += 1
-            print(f"   ✓ Fixed {pl_name:12s} - Mass: {correct_data['pl_masse']:6.3f} Me, Distance: {distance_from_earth_au:.3f} AU, Hab: {correct_data['habitability']}%")
+            print(f"   Fixed {pl_name:12s} - Mass: {correct_data['pl_masse']:6.3f} Me, Distance: {distance_from_earth_au:.3f} AU, Hab: {correct_data['habitability']}%")
     
     # Save fixed data
     with open(cluster_path, 'w') as f:
         json.dump(planets, f, indent=2)
     
-    print(f"\n✅ Fixed {fixed_count} planets")
-    print(f"📁 Saved to: {cluster_path}")
+    print(f"\nOK: Fixed {fixed_count} planets")
+    print(f"Saved to: {cluster_path}")
     
     return fixed_count
 
@@ -231,7 +231,7 @@ def main():
     fixed = fix_solar_system()
     
     print("\n" + "="*70)
-    print("✨ SOLAR SYSTEM FIX COMPLETE")
+    print("SOLAR SYSTEM FIX COMPLETE")
     print("="*70)
     print(f"\nSummary:")
     print(f"   • Fixed {fixed} planets")
